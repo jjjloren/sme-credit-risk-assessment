@@ -3,13 +3,13 @@ from fastapi.responses import HTMLResponse
 import joblib
 
 # Load AI model
-print("🤖 Loading AI model...")
+print("Loading AI model...")
 try:
     model = joblib.load('models/loan_prediction_model.pkl')
     feature_names = joblib.load('models/feature_names.pkl')
-    print("✅ AI model loaded successfully!")
+    print("AI model loaded successfully!")
 except:
-    print("❌ Could not load AI model - check if models folder exists")
+    print("Could not load AI model - check if models folder exists")
     model = None
     feature_names = None
 
@@ -1537,6 +1537,6 @@ async def predict_loan(
 
 if __name__ == "__main__":
     import uvicorn
-    print("🚀 Starting final clean CreditAI server...")
-    print("🌐 Open your browser to: http://localhost:8000")
+    print("Starting final clean CreditAI server...")
+    print("Open your browser to: http://localhost:8000")
     uvicorn.run(app, host="127.0.0.1", port=8000)
