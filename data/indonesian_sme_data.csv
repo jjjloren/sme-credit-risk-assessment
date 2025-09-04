@@ -1,0 +1,1001 @@
+business_id,business_name,business_type,city,owner_age,years_in_business,employee_count,has_instagram,instagram_followers,has_tokopedia,tokopedia_rating,monthly_digital_payments,monthly_revenue,loan_amount_requested,loan_approved
+1,Usaha Berkah 1,Warung Makan,Bekasi,40,4,9,True,9674,False,3.1,111,36227216,145655277,True
+2,Usaha Sejahtera 2,Jasa Fotocopy,Depok,39,8,38,False,2615,False,0.0,142,25868105,67797847,True
+3,Usaha Maju 3,Toko Kelontong,Surabaya,49,2,23,False,0,True,0.0,274,21753883,111612049,False
+4,Usaha Maju 4,Apotek,Tangerang,61,4,46,True,3733,False,4.7,443,18556182,112039357,True
+5,Usaha Maju 5,Salon Kecantikan,Tangerang,47,4,43,False,9980,True,3.3,194,41231783,181798626,True
+6,Usaha Sejahtera 6,Jasa Laundry,Jakarta,39,14,3,False,0,False,3.4,482,81125617,94470701,True
+7,Usaha Sukses 7,Kafe,Semarang,34,5,9,True,0,False,0.0,185,34436733,47133144,True
+8,Usaha Berkah 8,Warung Makan,Surabaya,34,11,11,False,6304,False,0.0,270,38744231,158505445,True
+9,Usaha Berkah 9,Toko Kelontong,Palembang,42,13,42,False,4808,False,3.9,488,40351479,144375061,True
+10,Usaha Berkah 10,Toko Pakaian,Palembang,63,4,10,False,8837,True,0.0,250,7614124,40029263,True
+11,Usaha Maju 11,Bengkel Motor,Jakarta,40,15,37,True,7962,True,3.3,243,78793389,54325930,True
+12,Usaha Sukses 12,Bengkel Motor,Palembang,37,12,20,False,0,False,0.0,61,38273328,70316732,False
+13,Usaha Berkah 13,Apotek,Palembang,39,10,15,True,964,True,4.8,440,49349361,29020625,True
+14,Usaha Maju 14,Toko Elektronik,Medan,59,3,47,False,7749,False,3.2,337,62854710,105106029,False
+15,Usaha Sukses 15,Warung Makan,Surabaya,28,7,47,False,4073,True,4.1,71,61623995,59254695,True
+16,Usaha Sejahtera 16,Toko Kelontong,Semarang,60,2,4,True,3872,True,0.0,248,69606833,67377352,True
+17,Usaha Berkah 17,Salon Kecantikan,Depok,25,7,17,False,0,False,0.0,79,30487660,89646901,False
+18,Usaha Berkah 18,Apotek,Palembang,28,12,21,True,9571,False,3.1,260,15752378,59882009,True
+19,Usaha Berkah 19,Bengkel Motor,Depok,32,15,37,True,1343,False,0.0,478,39999379,64830411,True
+20,Usaha Maju 20,Bengkel Motor,Bekasi,50,3,43,False,0,False,3.0,318,80563727,36838513,False
+21,Usaha Sejahtera 21,Jasa Fotocopy,Bekasi,33,15,23,True,6054,False,3.9,278,99427530,91206326,True
+22,Usaha Berkah 22,Jasa Fotocopy,Bekasi,31,15,9,False,1753,True,0.0,144,86178885,66540466,True
+23,Usaha Sejahtera 23,Toko Pakaian,Palembang,56,5,4,True,0,False,3.0,394,22558317,181023819,True
+24,Usaha Sejahtera 24,Toko Elektronik,Palembang,52,9,1,True,2442,True,0.0,298,79158663,49753623,True
+25,Usaha Berkah 25,Toko Pakaian,Tangerang,27,15,23,True,1684,False,0.0,498,88303777,51487595,True
+26,Usaha Sejahtera 26,Salon Kecantikan,Bandung,51,1,12,False,0,True,0.0,81,99123965,39016698,False
+27,Usaha Berkah 27,Toko Elektronik,Medan,37,14,30,False,0,True,3.0,98,58481198,98117146,False
+28,Usaha Berkah 28,Toko Pakaian,Tangerang,57,7,44,False,1889,False,4.2,135,10134794,39099087,True
+29,Usaha Maju 29,Jasa Laundry,Depok,63,9,8,False,4173,True,0.0,0,74782527,154539606,True
+30,Usaha Sejahtera 30,Jasa Laundry,Depok,29,11,22,False,4920,False,0.0,167,59009265,197155458,True
+31,Usaha Sejahtera 31,Bengkel Motor,Depok,49,11,48,True,0,False,3.6,107,62698610,165688478,True
+32,Usaha Maju 32,Toko Elektronik,Semarang,53,11,14,False,1389,False,0.0,47,36523529,190602212,False
+33,Usaha Sejahtera 33,Salon Kecantikan,Jakarta,27,4,31,True,0,False,4.4,196,71354180,117280998,True
+34,Usaha Berkah 34,Toko Kelontong,Depok,39,3,45,False,9132,True,3.9,410,67363359,189201532,False
+35,Usaha Maju 35,Toko Elektronik,Makassar,57,7,36,False,7777,False,0.0,384,38183955,181170938,True
+36,Usaha Sukses 36,Bengkel Motor,Bekasi,53,2,46,False,4451,False,0.0,457,77498004,31629900,False
+37,Usaha Sejahtera 37,Kafe,Bandung,38,2,27,False,0,False,0.0,31,32760841,122781417,False
+38,Usaha Berkah 38,Apotek,Depok,55,1,23,False,0,False,4.0,139,63496914,140363531,False
+39,Usaha Maju 39,Kafe,Bandung,54,15,9,True,0,True,4.3,69,66968116,58782514,True
+40,Usaha Sukses 40,Jasa Laundry,Medan,54,6,22,False,0,False,0.0,427,15993268,136247030,True
+41,Usaha Berkah 41,Jasa Laundry,Medan,29,13,42,True,4051,True,4.2,122,21941092,137120579,True
+42,Usaha Sejahtera 42,Toko Elektronik,Bekasi,48,3,39,True,5096,True,4.9,294,95912013,110745694,True
+43,Usaha Sejahtera 43,Toko Kelontong,Makassar,65,4,7,False,9272,True,0.0,272,62495923,187575782,True
+44,Usaha Maju 44,Warung Makan,Depok,56,2,28,False,0,True,0.0,90,75027662,184605833,False
+45,Usaha Sukses 45,Toko Elektronik,Depok,62,5,21,True,4569,False,4.5,291,86917334,189365476,True
+46,Usaha Berkah 46,Toko Elektronik,Tangerang,36,8,14,False,0,False,0.0,450,85014570,198222579,True
+47,Usaha Berkah 47,Jasa Fotocopy,Medan,30,4,47,False,0,True,0.0,330,70876924,130305938,True
+48,Usaha Berkah 48,Toko Pakaian,Medan,50,12,16,False,0,False,0.0,217,78871890,98796113,True
+49,Usaha Sukses 49,Toko Pakaian,Bekasi,41,4,8,True,0,True,3.4,378,69988034,84222303,True
+50,Usaha Maju 50,Toko Kelontong,Medan,43,4,24,True,0,True,3.5,498,12318358,158541166,False
+51,Usaha Sejahtera 51,Toko Elektronik,Surabaya,25,10,19,False,0,False,0.0,94,11895666,77774150,True
+52,Usaha Sukses 52,Toko Kelontong,Surabaya,50,8,5,True,2444,False,5.0,60,79903294,121715862,True
+53,Usaha Sejahtera 53,Jasa Fotocopy,Depok,53,15,29,False,0,False,4.2,378,18318904,65777640,True
+54,Usaha Maju 54,Toko Kelontong,Bandung,40,3,36,True,43,False,0.0,352,84699989,136141170,False
+55,Usaha Sejahtera 55,Toko Pakaian,Bekasi,54,2,44,True,0,True,0.0,58,78089925,70346826,False
+56,Usaha Maju 56,Salon Kecantikan,Surabaya,28,3,20,False,0,True,0.0,352,45814428,197833330,False
+57,Usaha Maju 57,Jasa Fotocopy,Palembang,56,8,6,True,0,False,0.0,13,17257687,71451429,True
+58,Usaha Berkah 58,Toko Pakaian,Makassar,27,13,49,True,0,False,0.0,92,83561612,127006984,True
+59,Usaha Sukses 59,Toko Kelontong,Semarang,47,7,22,False,2634,False,0.0,355,71500726,87367875,True
+60,Usaha Sukses 60,Jasa Fotocopy,Jakarta,54,2,21,False,0,True,0.0,442,74067939,10308986,False
+61,Usaha Sukses 61,Kafe,Jakarta,37,9,24,False,0,True,3.5,67,43658617,127605892,True
+62,Usaha Sukses 62,Toko Kelontong,Jakarta,65,10,16,True,0,True,0.0,47,35158811,40456987,False
+63,Usaha Berkah 63,Salon Kecantikan,Semarang,43,9,46,False,0,False,0.0,124,66308842,157979092,True
+64,Usaha Sejahtera 64,Apotek,Palembang,33,14,5,False,0,False,0.0,420,5344303,85924011,False
+65,Usaha Sukses 65,Salon Kecantikan,Semarang,59,8,23,False,0,False,0.0,445,30320492,197233309,True
+66,Usaha Sukses 66,Bengkel Motor,Depok,27,6,48,False,0,False,4.0,18,21944487,144832753,True
+67,Usaha Maju 67,Toko Kelontong,Semarang,31,9,30,True,6717,True,3.9,496,40570755,100881839,True
+68,Usaha Sukses 68,Toko Kelontong,Tangerang,59,7,21,False,1121,True,0.0,116,17130508,126493328,True
+69,Usaha Berkah 69,Toko Elektronik,Bandung,44,15,2,True,0,True,0.0,183,55310319,125611604,True
+70,Usaha Sukses 70,Apotek,Bandung,35,3,6,False,8153,True,3.9,130,66682508,78538740,False
+71,Usaha Sukses 71,Toko Pakaian,Palembang,35,2,29,False,0,False,0.0,233,45550084,63476905,False
+72,Usaha Sukses 72,Toko Kelontong,Medan,49,10,23,False,0,True,0.0,140,6086890,161915413,False
+73,Usaha Berkah 73,Apotek,Semarang,43,13,15,False,3115,False,4.3,462,89216001,183500737,True
+74,Usaha Sukses 74,Warung Makan,Makassar,48,12,9,True,0,False,0.0,89,31950221,45476375,True
+75,Usaha Maju 75,Jasa Fotocopy,Palembang,42,14,11,False,0,False,0.0,411,20457816,135716748,True
+76,Usaha Sejahtera 76,Bengkel Motor,Depok,60,6,6,False,4332,True,0.0,188,95305496,190480109,True
+77,Usaha Sukses 77,Jasa Laundry,Surabaya,39,8,2,False,1035,False,0.0,332,59800542,41319958,True
+78,Usaha Berkah 78,Toko Pakaian,Semarang,32,2,16,True,0,False,0.0,343,98480498,155006818,False
+79,Usaha Sejahtera 79,Kafe,Surabaya,56,10,27,False,6070,True,0.0,227,36690501,107357793,True
+80,Usaha Maju 80,Jasa Fotocopy,Tangerang,28,7,18,True,7450,True,4.3,305,7866549,23577065,True
+81,Usaha Sejahtera 81,Salon Kecantikan,Makassar,38,2,49,True,3817,False,4.6,305,5380581,84430399,False
+82,Usaha Sejahtera 82,Salon Kecantikan,Palembang,41,13,12,True,2159,True,0.0,404,36934639,168069002,True
+83,Usaha Sejahtera 83,Toko Pakaian,Jakarta,33,12,27,True,7802,False,0.0,262,84680504,39273962,True
+84,Usaha Sejahtera 84,Apotek,Jakarta,58,5,30,True,7847,False,0.0,351,19490391,141605542,True
+85,Usaha Sukses 85,Toko Kelontong,Surabaya,45,10,10,True,4505,False,0.0,305,76210133,89161011,True
+86,Usaha Sukses 86,Toko Kelontong,Surabaya,60,12,14,False,0,True,0.0,173,65867592,117033318,True
+87,Usaha Berkah 87,Jasa Laundry,Depok,45,11,17,False,7770,True,4.7,47,62965485,35921316,True
+88,Usaha Maju 88,Salon Kecantikan,Palembang,28,10,36,False,6730,False,0.0,444,11904975,87209930,True
+89,Usaha Maju 89,Toko Kelontong,Makassar,57,4,10,False,1773,False,0.0,58,42388792,164108797,False
+90,Usaha Sukses 90,Jasa Fotocopy,Makassar,64,11,42,True,0,True,3.5,390,46471222,101220987,True
+91,Usaha Sejahtera 91,Salon Kecantikan,Makassar,50,2,10,True,8691,True,0.0,214,65887307,101508569,False
+92,Usaha Maju 92,Jasa Laundry,Makassar,63,2,4,True,815,True,0.0,226,93843907,123820598,False
+93,Usaha Sukses 93,Kafe,Bekasi,38,13,33,True,0,False,3.6,347,84609131,140629484,True
+94,Usaha Maju 94,Warung Makan,Medan,50,10,4,True,4938,True,4.5,148,49039837,42208053,True
+95,Usaha Sukses 95,Salon Kecantikan,Bandung,49,9,46,True,0,True,0.0,441,10677713,127096807,False
+96,Usaha Berkah 96,Jasa Laundry,Makassar,52,10,26,False,0,True,0.0,10,48589647,56136855,True
+97,Usaha Sukses 97,Jasa Laundry,Surabaya,52,14,7,True,0,False,3.8,158,50568701,69477796,True
+98,Usaha Sejahtera 98,Toko Kelontong,Palembang,65,2,34,True,0,False,3.5,74,39355473,62954746,False
+99,Usaha Sejahtera 99,Toko Kelontong,Bandung,65,8,30,False,0,False,3.9,240,64352161,179486152,True
+100,Usaha Maju 100,Apotek,Jakarta,47,9,5,False,0,False,3.1,425,43530827,30597321,True
+101,Usaha Berkah 101,Apotek,Makassar,57,7,30,True,0,True,0.0,309,68837847,144584761,True
+102,Usaha Berkah 102,Toko Elektronik,Surabaya,46,12,6,True,4059,False,0.0,268,75162053,173693393,True
+103,Usaha Maju 103,Toko Pakaian,Depok,51,13,22,True,0,True,0.0,48,79888554,192101068,False
+104,Usaha Maju 104,Apotek,Bandung,46,2,38,True,0,False,0.0,66,84865081,32741587,False
+105,Usaha Sukses 105,Jasa Laundry,Bandung,58,2,42,False,0,True,0.0,158,29194479,67496905,False
+106,Usaha Sukses 106,Bengkel Motor,Medan,33,3,5,False,8317,True,0.0,448,87950779,45178209,False
+107,Usaha Sejahtera 107,Salon Kecantikan,Bandung,64,13,11,False,6731,False,4.9,312,43242379,130508182,True
+108,Usaha Sejahtera 108,Toko Pakaian,Semarang,37,6,44,False,0,False,0.0,257,75794454,122383408,True
+109,Usaha Sejahtera 109,Apotek,Bandung,41,1,42,False,0,True,3.6,390,26516757,83226856,False
+110,Usaha Sejahtera 110,Kafe,Surabaya,39,14,29,False,6797,True,0.0,257,55192261,73291194,True
+111,Usaha Berkah 111,Jasa Laundry,Medan,26,6,7,False,2254,True,0.0,469,68411827,196850400,True
+112,Usaha Sukses 112,Toko Elektronik,Makassar,25,15,6,True,0,True,4.1,372,86722503,151672584,True
+113,Usaha Maju 113,Bengkel Motor,Bekasi,32,1,16,False,0,True,4.7,255,85092958,153895843,False
+114,Usaha Sejahtera 114,Salon Kecantikan,Bekasi,52,1,40,False,9349,False,4.3,43,75260907,106798834,False
+115,Usaha Berkah 115,Kafe,Semarang,27,11,25,False,0,True,0.0,403,14067690,102557215,True
+116,Usaha Berkah 116,Apotek,Tangerang,33,1,23,False,7612,False,4.6,32,66428713,19927761,False
+117,Usaha Berkah 117,Bengkel Motor,Jakarta,45,15,20,False,0,False,4.5,97,43401154,105824525,True
+118,Usaha Berkah 118,Jasa Laundry,Bekasi,32,13,24,False,0,False,0.0,173,30074182,143198539,True
+119,Usaha Maju 119,Jasa Fotocopy,Bekasi,30,12,28,True,0,True,0.0,164,18770458,31493335,True
+120,Usaha Maju 120,Toko Pakaian,Semarang,63,12,28,True,0,False,0.0,21,52319709,175047937,True
+121,Usaha Maju 121,Warung Makan,Surabaya,65,7,24,True,2339,False,3.3,120,91592295,108335550,True
+122,Usaha Berkah 122,Apotek,Bandung,53,6,24,False,9403,True,0.0,203,47196099,184365133,True
+123,Usaha Berkah 123,Warung Makan,Bandung,56,9,25,True,0,False,0.0,109,87124765,86658958,True
+124,Usaha Sukses 124,Bengkel Motor,Surabaya,33,14,5,False,7292,True,0.0,341,51630633,27431950,True
+125,Usaha Maju 125,Toko Pakaian,Bandung,65,3,24,True,3292,True,4.6,13,53438711,158718997,True
+126,Usaha Sukses 126,Jasa Fotocopy,Bandung,64,15,6,True,0,False,0.0,269,60135987,119906474,True
+127,Usaha Berkah 127,Salon Kecantikan,Tangerang,29,8,30,False,9032,True,3.9,466,12437386,43329247,True
+128,Usaha Maju 128,Salon Kecantikan,Bandung,45,15,46,True,0,False,3.5,325,78932683,83672388,True
+129,Usaha Maju 129,Apotek,Palembang,30,9,42,True,2804,False,4.7,14,15901547,22203559,True
+130,Usaha Maju 130,Bengkel Motor,Makassar,51,10,41,True,0,False,0.0,247,37866956,193875828,True
+131,Usaha Sukses 131,Toko Kelontong,Jakarta,35,8,27,False,0,True,0.0,310,24282885,93908224,True
+132,Usaha Maju 132,Jasa Laundry,Depok,33,13,24,True,0,True,0.0,62,40899440,130687510,False
+133,Usaha Berkah 133,Warung Makan,Bekasi,49,14,40,False,2616,False,0.0,97,26386576,143752136,True
+134,Usaha Sukses 134,Toko Elektronik,Bekasi,56,1,6,False,0,True,4.2,24,11783418,85526016,False
+135,Usaha Sukses 135,Toko Pakaian,Palembang,25,14,7,False,4333,False,0.0,187,11072331,117530311,False
+136,Usaha Sejahtera 136,Jasa Laundry,Palembang,43,2,25,False,0,True,5.0,201,55089832,101022516,True
+137,Usaha Maju 137,Salon Kecantikan,Medan,63,9,26,True,637,True,0.0,411,68584863,149407312,True
+138,Usaha Sejahtera 138,Jasa Laundry,Makassar,45,3,26,False,0,False,0.0,243,7232974,108880296,False
+139,Usaha Berkah 139,Kafe,Makassar,44,13,47,True,0,False,4.4,298,69484744,55771483,True
+140,Usaha Sukses 140,Salon Kecantikan,Medan,27,10,45,True,310,False,0.0,214,25324759,120853135,True
+141,Usaha Sukses 141,Jasa Fotocopy,Makassar,55,14,48,True,8498,True,0.0,339,69205866,151056698,True
+142,Usaha Sejahtera 142,Toko Elektronik,Palembang,46,9,23,False,0,True,3.6,152,35181142,89890300,True
+143,Usaha Sejahtera 143,Toko Elektronik,Tangerang,55,6,36,False,0,True,0.0,458,57953249,102646383,True
+144,Usaha Sejahtera 144,Toko Pakaian,Jakarta,43,12,6,False,0,False,0.0,109,32121108,154573410,True
+145,Usaha Maju 145,Salon Kecantikan,Surabaya,64,12,38,True,831,True,3.1,211,49331259,136809958,True
+146,Usaha Sejahtera 146,Warung Makan,Palembang,35,7,42,False,0,True,0.0,164,43307798,183381902,True
+147,Usaha Berkah 147,Apotek,Medan,59,12,47,True,6846,True,5.0,203,71489301,60012646,True
+148,Usaha Maju 148,Warung Makan,Jakarta,44,10,39,True,0,False,0.0,328,77920556,150745684,True
+149,Usaha Sejahtera 149,Jasa Fotocopy,Semarang,42,4,8,False,7518,False,3.0,172,44597485,162412611,True
+150,Usaha Sejahtera 150,Salon Kecantikan,Makassar,65,15,26,False,0,True,0.0,342,17802372,59601825,True
+151,Usaha Sukses 151,Jasa Laundry,Medan,25,5,25,True,0,False,0.0,154,83176558,163780593,True
+152,Usaha Maju 152,Bengkel Motor,Jakarta,32,8,20,True,0,False,4.3,481,44599276,108661814,True
+153,Usaha Sejahtera 153,Salon Kecantikan,Semarang,34,8,48,False,0,False,4.5,348,84968863,31976893,True
+154,Usaha Maju 154,Toko Kelontong,Makassar,32,1,36,True,2695,False,0.0,59,96307681,65137041,False
+155,Usaha Sukses 155,Toko Kelontong,Palembang,53,13,4,False,8409,False,0.0,288,12749299,160000980,False
+156,Usaha Maju 156,Warung Makan,Depok,41,14,1,True,742,False,0.0,358,13557710,155267471,False
+157,Usaha Berkah 157,Toko Elektronik,Jakarta,43,7,12,True,0,False,0.0,229,55666702,110836581,True
+158,Usaha Sejahtera 158,Jasa Laundry,Surabaya,36,9,26,True,56,True,0.0,237,95395620,156148433,True
+159,Usaha Sukses 159,Bengkel Motor,Medan,54,6,10,False,1848,True,0.0,314,7099943,74603366,False
+160,Usaha Berkah 160,Apotek,Jakarta,53,10,44,True,724,False,0.0,119,77445335,68322758,True
+161,Usaha Berkah 161,Salon Kecantikan,Palembang,43,4,47,False,0,True,0.0,448,24228089,187224422,True
+162,Usaha Sukses 162,Toko Pakaian,Bekasi,28,9,38,True,0,False,4.9,482,91344420,190212136,True
+163,Usaha Maju 163,Kafe,Depok,34,5,25,True,0,True,3.6,362,24374563,134292369,True
+164,Usaha Sukses 164,Kafe,Palembang,58,3,25,True,0,True,0.0,331,15612653,130738730,False
+165,Usaha Berkah 165,Jasa Fotocopy,Medan,28,5,25,True,3082,True,0.0,106,49689713,91386414,True
+166,Usaha Berkah 166,Bengkel Motor,Medan,32,12,49,False,9902,True,0.0,468,37122457,158197657,True
+167,Usaha Maju 167,Kafe,Semarang,59,11,23,False,0,False,0.0,238,18234972,136027875,True
+168,Usaha Maju 168,Bengkel Motor,Tangerang,45,7,3,True,265,False,0.0,151,25456313,62664831,True
+169,Usaha Sukses 169,Apotek,Medan,56,9,42,False,0,False,0.0,235,27579937,104536571,True
+170,Usaha Sukses 170,Salon Kecantikan,Palembang,28,9,3,True,104,False,4.7,118,14122502,199829385,False
+171,Usaha Sejahtera 171,Jasa Fotocopy,Semarang,48,1,40,False,0,True,4.1,210,6590610,14489890,True
+172,Usaha Maju 172,Jasa Fotocopy,Bekasi,26,9,45,False,1753,True,3.5,317,75659726,77757992,True
+173,Usaha Maju 173,Kafe,Surabaya,48,7,30,True,4914,True,3.2,194,55622842,158364663,True
+174,Usaha Berkah 174,Salon Kecantikan,Surabaya,56,14,28,False,8653,True,3.4,444,97917283,162144960,True
+175,Usaha Berkah 175,Toko Kelontong,Bekasi,59,10,43,True,5152,True,4.2,385,58458386,30652750,True
+176,Usaha Sejahtera 176,Apotek,Depok,59,6,25,True,8204,False,3.2,118,15202996,101427168,True
+177,Usaha Sukses 177,Jasa Laundry,Jakarta,65,5,29,False,5829,False,0.0,95,96227099,167269655,True
+178,Usaha Berkah 178,Apotek,Bekasi,40,12,5,True,0,True,0.0,364,90080736,51413386,True
+179,Usaha Maju 179,Jasa Laundry,Surabaya,30,1,20,False,0,False,3.3,95,62845091,130485557,False
+180,Usaha Sukses 180,Toko Kelontong,Jakarta,30,6,36,True,0,False,3.6,198,16368176,160199447,True
+181,Usaha Sejahtera 181,Apotek,Palembang,35,11,25,True,4405,False,0.0,252,24587040,26983147,True
+182,Usaha Maju 182,Kafe,Bekasi,55,13,5,False,0,True,0.0,304,87767884,62492076,True
+183,Usaha Sejahtera 183,Toko Pakaian,Jakarta,50,6,40,False,0,False,0.0,220,92380687,169556135,True
+184,Usaha Maju 184,Apotek,Medan,55,6,12,False,0,False,0.0,495,82293208,75075276,True
+185,Usaha Maju 185,Kafe,Tangerang,32,15,37,True,9012,True,0.0,482,33138531,127696855,True
+186,Usaha Berkah 186,Kafe,Semarang,33,11,20,True,0,True,0.0,404,55598851,29854864,True
+187,Usaha Sukses 187,Apotek,Depok,59,9,45,False,5890,True,4.5,336,94213703,105296954,True
+188,Usaha Berkah 188,Apotek,Depok,46,13,28,True,1615,False,4.0,265,79892608,165831693,True
+189,Usaha Sejahtera 189,Toko Elektronik,Tangerang,50,8,50,True,0,True,0.0,53,44652241,121662553,True
+190,Usaha Berkah 190,Toko Kelontong,Bandung,47,5,22,False,8537,False,0.0,243,18102741,127619273,True
+191,Usaha Sukses 191,Jasa Laundry,Surabaya,44,1,46,True,5620,True,4.9,379,37737441,148511059,True
+192,Usaha Sejahtera 192,Jasa Laundry,Palembang,52,8,15,False,3053,False,0.0,14,87424037,62968874,False
+193,Usaha Sukses 193,Kafe,Jakarta,38,4,18,True,8796,True,0.0,166,31450861,132822756,True
+194,Usaha Sukses 194,Jasa Fotocopy,Tangerang,63,7,40,False,5700,False,0.0,316,28156250,190815133,True
+195,Usaha Maju 195,Apotek,Makassar,30,11,9,False,3908,False,3.4,355,23972822,147123506,True
+196,Usaha Sejahtera 196,Apotek,Depok,52,3,32,True,8022,False,3.4,431,65532325,176271601,False
+197,Usaha Maju 197,Warung Makan,Semarang,33,4,25,False,0,False,0.0,363,64572772,141184277,True
+198,Usaha Berkah 198,Bengkel Motor,Bekasi,27,5,15,False,7492,False,4.1,137,77894477,108478707,True
+199,Usaha Berkah 199,Toko Elektronik,Palembang,38,7,7,True,0,True,0.0,134,51785209,33349322,True
+200,Usaha Berkah 200,Bengkel Motor,Medan,62,12,23,False,2281,True,4.6,291,52085656,152883038,True
+201,Usaha Sejahtera 201,Jasa Laundry,Bekasi,43,10,18,True,6743,True,0.0,443,93032908,44061282,True
+202,Usaha Sejahtera 202,Bengkel Motor,Bandung,45,14,16,False,0,True,0.0,321,60596350,110709555,True
+203,Usaha Berkah 203,Kafe,Palembang,42,12,24,False,0,False,4.7,433,17501261,133064034,True
+204,Usaha Maju 204,Toko Kelontong,Palembang,50,4,28,True,0,False,0.0,424,43063218,100665459,True
+205,Usaha Sejahtera 205,Apotek,Semarang,46,15,44,True,1631,False,3.2,439,26204188,128456795,True
+206,Usaha Sukses 206,Bengkel Motor,Bandung,44,3,18,True,0,False,3.7,462,92095388,54432801,False
+207,Usaha Maju 207,Bengkel Motor,Depok,30,12,7,True,7812,True,4.2,265,96265736,129471730,True
+208,Usaha Maju 208,Toko Kelontong,Depok,33,8,5,True,0,True,3.2,188,45165370,46810364,True
+209,Usaha Sejahtera 209,Salon Kecantikan,Surabaya,58,10,1,True,0,False,4.3,77,60258766,175376644,True
+210,Usaha Sejahtera 210,Toko Kelontong,Surabaya,33,13,8,False,0,False,0.0,405,23767690,76514649,True
+211,Usaha Berkah 211,Bengkel Motor,Palembang,63,10,47,False,4942,True,4.5,151,91727439,24648289,True
+212,Usaha Sejahtera 212,Toko Elektronik,Depok,32,4,32,True,5916,False,3.8,429,81286724,122974694,True
+213,Usaha Sejahtera 213,Toko Elektronik,Surabaya,26,10,5,True,0,True,4.8,485,58415303,145992248,True
+214,Usaha Sukses 214,Kafe,Depok,30,11,35,True,0,True,0.0,40,73626154,64545410,True
+215,Usaha Sejahtera 215,Jasa Fotocopy,Tangerang,50,10,41,True,0,False,3.1,44,63315400,41134911,False
+216,Usaha Berkah 216,Toko Pakaian,Bandung,32,1,46,True,2684,False,0.0,267,74420474,79591077,False
+217,Usaha Sejahtera 217,Toko Pakaian,Surabaya,26,6,28,False,4308,True,0.0,233,73555983,106670022,True
+218,Usaha Sejahtera 218,Jasa Laundry,Bandung,41,13,7,True,8336,True,4.7,6,37823140,22343072,True
+219,Usaha Sukses 219,Salon Kecantikan,Bandung,27,9,46,False,5272,True,0.0,468,47940967,82815253,True
+220,Usaha Maju 220,Toko Kelontong,Palembang,28,3,15,True,0,True,0.0,443,42890586,93402299,False
+221,Usaha Sukses 221,Warung Makan,Tangerang,37,5,37,False,7600,False,0.0,395,31229153,156715879,True
+222,Usaha Sejahtera 222,Salon Kecantikan,Jakarta,51,1,15,False,5488,True,0.0,434,46273379,37903602,False
+223,Usaha Sejahtera 223,Kafe,Semarang,28,3,46,False,719,True,0.0,358,54995026,133066388,False
+224,Usaha Berkah 224,Apotek,Surabaya,57,3,41,False,9697,True,0.0,339,22543369,73557928,False
+225,Usaha Maju 225,Kafe,Tangerang,45,8,18,True,3321,True,3.3,84,65339827,135105717,True
+226,Usaha Berkah 226,Jasa Fotocopy,Tangerang,38,8,20,False,0,True,3.3,351,45831043,199167755,True
+227,Usaha Berkah 227,Bengkel Motor,Tangerang,34,2,46,True,0,False,4.4,133,28336132,18343534,False
+228,Usaha Sukses 228,Jasa Fotocopy,Palembang,40,2,30,True,1989,True,4.7,113,22544302,63185930,True
+229,Usaha Maju 229,Toko Kelontong,Makassar,62,5,5,True,3239,False,3.2,433,49499873,42890769,True
+230,Usaha Sukses 230,Warung Makan,Bandung,61,7,47,False,0,True,0.0,349,62265875,56387582,True
+231,Usaha Sejahtera 231,Toko Pakaian,Bekasi,53,15,10,True,4835,False,0.0,451,78912181,138588886,True
+232,Usaha Maju 232,Kafe,Bandung,51,4,42,True,6266,False,0.0,278,70052579,102350955,True
+233,Usaha Maju 233,Kafe,Bekasi,36,1,21,True,4602,True,0.0,271,52973830,166763330,True
+234,Usaha Sejahtera 234,Toko Kelontong,Medan,40,5,35,True,9432,False,0.0,478,28315234,57271583,True
+235,Usaha Maju 235,Jasa Laundry,Makassar,26,12,45,False,9225,True,0.0,277,46480401,57125660,True
+236,Usaha Berkah 236,Warung Makan,Medan,63,4,2,False,5435,True,3.7,90,48431355,25986932,False
+237,Usaha Sejahtera 237,Toko Kelontong,Palembang,48,2,24,False,5514,False,0.0,69,26139813,127270963,False
+238,Usaha Sukses 238,Jasa Laundry,Bandung,60,12,40,False,9649,True,0.0,157,97408696,89058876,True
+239,Usaha Berkah 239,Apotek,Depok,61,1,12,False,9265,True,0.0,72,49448673,30886060,False
+240,Usaha Maju 240,Salon Kecantikan,Surabaya,65,12,22,False,4345,True,4.4,179,39448045,39000316,True
+241,Usaha Berkah 241,Kafe,Semarang,51,3,27,False,0,False,0.0,51,69355957,165170589,False
+242,Usaha Sejahtera 242,Salon Kecantikan,Semarang,29,13,3,False,5221,False,3.1,87,55393104,53192471,True
+243,Usaha Berkah 243,Jasa Laundry,Makassar,64,15,31,True,0,True,0.0,80,12188130,37181186,False
+244,Usaha Sejahtera 244,Kafe,Palembang,59,5,43,False,0,True,3.1,292,78774469,141787924,True
+245,Usaha Maju 245,Warung Makan,Depok,30,5,43,False,1589,True,3.3,149,15997276,137123153,True
+246,Usaha Maju 246,Kafe,Semarang,56,15,43,False,8914,False,3.7,195,54580252,60085476,True
+247,Usaha Maju 247,Toko Elektronik,Semarang,41,4,18,True,1584,True,0.0,413,77672055,121128694,True
+248,Usaha Sejahtera 248,Jasa Fotocopy,Jakarta,49,14,34,False,0,True,0.0,153,15597167,115979489,True
+249,Usaha Berkah 249,Jasa Fotocopy,Makassar,58,13,37,True,7357,True,4.9,413,30867257,43872797,True
+250,Usaha Berkah 250,Kafe,Medan,65,3,39,False,0,True,3.8,203,79095459,97543997,False
+251,Usaha Sukses 251,Warung Makan,Makassar,62,9,27,True,0,True,4.1,298,18449152,38356130,True
+252,Usaha Berkah 252,Toko Pakaian,Palembang,47,15,27,False,0,False,0.0,19,28112256,83930920,False
+253,Usaha Sukses 253,Warung Makan,Depok,46,12,16,True,0,False,0.0,10,50347617,91350695,False
+254,Usaha Sukses 254,Toko Kelontong,Medan,33,5,48,False,0,False,0.0,309,91644900,33967757,True
+255,Usaha Sejahtera 255,Kafe,Semarang,58,14,24,True,1075,False,0.0,69,75368504,162651809,True
+256,Usaha Sejahtera 256,Bengkel Motor,Jakarta,40,1,30,True,0,True,0.0,188,67306347,145593829,False
+257,Usaha Berkah 257,Warung Makan,Medan,48,8,39,False,7775,False,0.0,83,39716747,194911909,False
+258,Usaha Berkah 258,Kafe,Jakarta,35,14,37,True,3688,True,0.0,333,59963125,147782883,True
+259,Usaha Berkah 259,Toko Elektronik,Bandung,36,10,1,True,0,False,0.0,216,55529679,103605912,True
+260,Usaha Sejahtera 260,Toko Elektronik,Bekasi,58,14,40,False,120,False,0.0,152,96860376,39019088,True
+261,Usaha Maju 261,Toko Pakaian,Tangerang,42,5,42,False,2456,True,4.6,410,85535106,118474345,True
+262,Usaha Sejahtera 262,Warung Makan,Semarang,43,5,27,False,0,True,3.7,365,34845082,194232115,True
+263,Usaha Sukses 263,Jasa Laundry,Palembang,44,14,11,True,0,True,0.0,65,39715663,160063916,True
+264,Usaha Sejahtera 264,Jasa Laundry,Surabaya,39,6,15,False,0,False,0.0,133,83593968,88933747,True
+265,Usaha Berkah 265,Toko Elektronik,Jakarta,65,10,38,True,0,True,4.7,195,76113720,90089262,True
+266,Usaha Sejahtera 266,Salon Kecantikan,Medan,46,7,37,False,5183,True,4.0,323,28732951,94131448,True
+267,Usaha Berkah 267,Toko Elektronik,Bekasi,38,13,50,True,8021,True,4.2,324,62634397,118285113,True
+268,Usaha Sukses 268,Kafe,Jakarta,27,9,13,False,5279,True,4.4,320,38396474,70737738,True
+269,Usaha Maju 269,Toko Pakaian,Bandung,31,7,33,False,1069,True,0.0,485,44034245,132386786,True
+270,Usaha Maju 270,Kafe,Bandung,46,15,32,False,2701,False,3.5,372,22610141,66690945,True
+271,Usaha Sejahtera 271,Toko Kelontong,Tangerang,27,7,41,False,9730,True,4.3,10,11473999,195153288,False
+272,Usaha Sukses 272,Kafe,Surabaya,60,5,31,True,152,False,0.0,338,18553285,187833917,False
+273,Usaha Sejahtera 273,Kafe,Surabaya,57,12,40,True,0,True,4.0,311,31809908,80596891,True
+274,Usaha Sejahtera 274,Jasa Laundry,Depok,43,3,3,False,7875,False,3.0,343,16945758,39643573,False
+275,Usaha Sukses 275,Salon Kecantikan,Surabaya,57,2,47,True,0,True,0.0,500,44731424,80900521,False
+276,Usaha Berkah 276,Salon Kecantikan,Jakarta,43,6,44,False,0,True,4.7,455,11159129,12596394,True
+277,Usaha Sejahtera 277,Jasa Laundry,Tangerang,53,10,18,True,0,False,3.2,204,66275585,82969639,True
+278,Usaha Sukses 278,Kafe,Bandung,32,3,45,True,1699,False,0.0,410,81362294,192104770,False
+279,Usaha Sukses 279,Jasa Laundry,Makassar,26,14,44,True,0,False,4.8,225,11170301,27001640,True
+280,Usaha Maju 280,Warung Makan,Palembang,61,12,37,True,0,True,0.0,338,38363439,139367012,True
+281,Usaha Sukses 281,Salon Kecantikan,Palembang,64,1,1,True,0,False,3.1,251,48034742,74663905,False
+282,Usaha Maju 282,Warung Makan,Palembang,39,9,42,False,0,True,3.9,410,81911446,130285548,True
+283,Usaha Sukses 283,Toko Elektronik,Tangerang,32,8,48,True,6609,False,4.1,0,17199793,172189580,True
+284,Usaha Maju 284,Jasa Fotocopy,Palembang,38,11,43,False,0,False,4.6,432,65996586,99113222,True
+285,Usaha Sukses 285,Jasa Laundry,Semarang,32,2,49,True,5592,False,0.0,280,75059652,110365428,True
+286,Usaha Berkah 286,Salon Kecantikan,Semarang,33,14,46,False,4166,True,3.2,436,57733674,67871867,True
+287,Usaha Sejahtera 287,Jasa Laundry,Surabaya,51,1,41,True,0,False,4.9,2,76184297,23038341,False
+288,Usaha Sukses 288,Apotek,Semarang,57,13,12,True,1696,False,0.0,258,56628545,122384460,True
+289,Usaha Sejahtera 289,Toko Pakaian,Depok,46,5,29,True,6762,False,0.0,364,79300459,179807783,True
+290,Usaha Sejahtera 290,Apotek,Bekasi,47,15,44,True,8255,False,4.5,287,69474159,166445867,True
+291,Usaha Sukses 291,Jasa Fotocopy,Bekasi,52,13,1,True,6240,True,4.3,102,40833216,53200764,True
+292,Usaha Maju 292,Salon Kecantikan,Jakarta,43,4,49,True,0,False,4.2,345,80414925,70212055,True
+293,Usaha Sukses 293,Bengkel Motor,Palembang,43,12,43,True,0,False,0.0,489,96959110,93927412,True
+294,Usaha Berkah 294,Warung Makan,Bekasi,37,10,50,False,6025,True,3.6,90,96624920,29990118,False
+295,Usaha Sejahtera 295,Jasa Fotocopy,Surabaya,49,1,28,False,0,True,4.2,130,5757677,98734772,False
+296,Usaha Sejahtera 296,Warung Makan,Bandung,45,10,4,False,0,False,4.6,162,75517332,69045603,True
+297,Usaha Berkah 297,Jasa Fotocopy,Bandung,51,9,35,False,5724,True,4.3,169,53425464,88805767,True
+298,Usaha Sukses 298,Jasa Fotocopy,Jakarta,32,11,23,False,3994,True,0.0,195,20216804,113582783,True
+299,Usaha Maju 299,Warung Makan,Palembang,48,9,33,False,0,True,0.0,459,92446634,61677151,True
+300,Usaha Berkah 300,Toko Kelontong,Bandung,59,9,1,True,3492,False,3.4,424,99320550,126833247,True
+301,Usaha Berkah 301,Salon Kecantikan,Jakarta,54,12,22,True,1200,True,4.6,285,14454577,164340264,True
+302,Usaha Maju 302,Kafe,Depok,53,11,26,False,0,True,0.0,344,20878730,153568509,True
+303,Usaha Berkah 303,Apotek,Jakarta,29,6,33,True,0,False,3.6,474,63743898,112384927,True
+304,Usaha Berkah 304,Toko Elektronik,Bandung,59,4,9,False,0,True,0.0,346,91965116,110161458,True
+305,Usaha Berkah 305,Jasa Fotocopy,Palembang,34,2,3,True,0,True,0.0,107,51150987,66837702,False
+306,Usaha Sejahtera 306,Salon Kecantikan,Bandung,39,10,17,True,2971,True,0.0,330,78774735,29634597,True
+307,Usaha Berkah 307,Toko Pakaian,Surabaya,37,12,38,False,0,False,4.3,120,18427820,86540918,True
+308,Usaha Sejahtera 308,Jasa Laundry,Semarang,53,6,40,False,9266,False,0.0,490,62486445,55268824,True
+309,Usaha Sejahtera 309,Bengkel Motor,Depok,42,14,24,True,0,False,0.0,228,53149482,91999460,True
+310,Usaha Berkah 310,Salon Kecantikan,Makassar,30,14,18,True,4312,True,4.8,434,73072320,179550946,True
+311,Usaha Sukses 311,Apotek,Medan,27,9,17,False,5993,False,4.8,301,44057246,45938476,True
+312,Usaha Berkah 312,Kafe,Tangerang,57,1,43,True,8423,True,0.0,81,29044459,162030367,False
+313,Usaha Sejahtera 313,Toko Elektronik,Tangerang,27,4,49,False,1029,False,0.0,119,10745651,189472080,False
+314,Usaha Maju 314,Kafe,Semarang,54,15,3,True,0,True,0.0,427,40341684,165325193,True
+315,Usaha Sejahtera 315,Kafe,Depok,48,10,42,True,0,False,4.0,180,51309454,140690904,True
+316,Usaha Berkah 316,Jasa Fotocopy,Bandung,53,3,15,True,0,True,3.4,185,85801793,41764026,False
+317,Usaha Sukses 317,Jasa Laundry,Surabaya,55,11,31,False,9679,True,0.0,11,37704875,21581469,False
+318,Usaha Sejahtera 318,Salon Kecantikan,Palembang,27,15,37,True,2725,False,4.0,207,85444404,161291484,True
+319,Usaha Maju 319,Toko Kelontong,Medan,53,10,31,False,3594,False,4.6,420,29412077,177292126,True
+320,Usaha Maju 320,Salon Kecantikan,Tangerang,54,10,38,True,6196,False,3.2,103,75157128,145387978,True
+321,Usaha Sejahtera 321,Apotek,Surabaya,36,8,40,True,1526,False,4.8,276,5161088,192149391,True
+322,Usaha Sukses 322,Jasa Laundry,Jakarta,58,7,15,False,0,False,3.9,130,69040812,72414702,True
+323,Usaha Berkah 323,Toko Pakaian,Makassar,59,7,17,True,116,True,3.8,105,97310488,94799220,True
+324,Usaha Berkah 324,Salon Kecantikan,Depok,62,5,17,False,0,False,0.0,386,32339300,120925088,True
+325,Usaha Sukses 325,Salon Kecantikan,Tangerang,60,9,31,False,0,False,0.0,376,23531242,186974893,True
+326,Usaha Sejahtera 326,Toko Elektronik,Bandung,31,4,33,False,0,True,3.8,325,5710096,34451405,True
+327,Usaha Sukses 327,Apotek,Depok,30,2,17,True,0,True,4.4,476,58773642,174810132,True
+328,Usaha Maju 328,Apotek,Jakarta,36,11,32,False,3304,False,3.1,306,73524572,148462667,True
+329,Usaha Sejahtera 329,Warung Makan,Tangerang,40,11,1,True,4520,False,0.0,342,58035211,118837415,True
+330,Usaha Berkah 330,Toko Kelontong,Surabaya,60,5,47,False,0,False,4.2,99,66036720,118436239,True
+331,Usaha Maju 331,Salon Kecantikan,Depok,57,2,36,True,0,False,4.6,489,39587020,154392340,False
+332,Usaha Maju 332,Toko Elektronik,Depok,61,8,50,True,0,False,0.0,459,83762521,17341897,True
+333,Usaha Maju 333,Toko Kelontong,Depok,65,13,15,True,0,False,0.0,264,76893982,12610048,True
+334,Usaha Maju 334,Bengkel Motor,Bekasi,30,7,44,False,9085,True,0.0,160,52451057,68670898,True
+335,Usaha Maju 335,Salon Kecantikan,Medan,56,12,13,True,4348,True,3.4,127,88026670,105570370,True
+336,Usaha Berkah 336,Toko Kelontong,Surabaya,56,10,1,True,0,False,0.0,252,82110685,83748087,True
+337,Usaha Maju 337,Kafe,Medan,61,3,4,False,0,True,0.0,201,97118813,56922614,False
+338,Usaha Berkah 338,Jasa Fotocopy,Semarang,45,12,1,True,6216,True,0.0,185,87245683,79712895,True
+339,Usaha Maju 339,Bengkel Motor,Bekasi,55,10,22,False,8171,False,3.8,385,54970552,107999875,True
+340,Usaha Maju 340,Toko Elektronik,Bandung,61,3,37,True,4422,True,0.0,438,56121302,62630319,False
+341,Usaha Sejahtera 341,Toko Elektronik,Jakarta,36,7,32,True,0,False,0.0,128,80448945,162426918,True
+342,Usaha Berkah 342,Salon Kecantikan,Jakarta,38,14,17,False,7370,False,0.0,184,53359530,160417816,True
+343,Usaha Maju 343,Jasa Laundry,Jakarta,51,2,23,True,4663,False,0.0,344,73510704,140860605,True
+344,Usaha Sukses 344,Toko Kelontong,Depok,64,5,30,True,5527,False,0.0,434,14575640,31236446,True
+345,Usaha Sejahtera 345,Jasa Laundry,Tangerang,43,12,18,False,0,False,0.0,382,83775038,149837609,True
+346,Usaha Sukses 346,Salon Kecantikan,Bandung,26,3,47,True,0,True,3.3,52,17825003,27124141,False
+347,Usaha Sukses 347,Jasa Fotocopy,Jakarta,26,13,26,True,4300,True,4.3,453,57324272,93046053,True
+348,Usaha Maju 348,Toko Elektronik,Bandung,33,9,11,True,5846,False,0.0,239,77555977,83125691,True
+349,Usaha Sejahtera 349,Jasa Fotocopy,Bandung,62,10,30,False,0,False,0.0,276,35484663,34039475,True
+350,Usaha Maju 350,Kafe,Bekasi,34,5,1,True,5634,False,0.0,273,6116303,194621842,True
+351,Usaha Sukses 351,Toko Pakaian,Jakarta,52,13,19,True,8981,False,3.8,287,63667423,115965454,True
+352,Usaha Sukses 352,Kafe,Medan,41,2,28,True,0,False,0.0,211,30233016,28378153,False
+353,Usaha Maju 353,Toko Kelontong,Semarang,64,8,18,False,5253,True,3.1,273,7970357,59912242,True
+354,Usaha Maju 354,Toko Pakaian,Bandung,53,12,1,True,2468,True,0.0,111,50890766,122808129,True
+355,Usaha Sukses 355,Jasa Laundry,Semarang,27,6,6,True,4366,False,4.1,92,30795612,77130195,True
+356,Usaha Berkah 356,Toko Kelontong,Medan,49,13,29,True,3263,False,4.0,106,68461570,114454398,True
+357,Usaha Maju 357,Jasa Laundry,Bandung,65,12,3,True,0,False,0.0,101,53375646,23982134,True
+358,Usaha Sejahtera 358,Toko Kelontong,Medan,65,7,21,True,4523,True,0.0,404,37626898,12397088,True
+359,Usaha Sukses 359,Apotek,Bandung,48,13,6,True,8190,True,0.0,476,88903841,26120176,True
+360,Usaha Sejahtera 360,Jasa Fotocopy,Surabaya,33,8,15,False,0,False,3.0,193,53072427,46166892,True
+361,Usaha Berkah 361,Toko Elektronik,Semarang,60,5,35,False,9284,True,0.0,165,67866875,83906846,True
+362,Usaha Sejahtera 362,Toko Kelontong,Palembang,34,8,19,False,0,False,4.6,259,55874366,59803981,True
+363,Usaha Maju 363,Apotek,Medan,45,12,5,False,8586,False,4.2,165,60003032,182041338,True
+364,Usaha Berkah 364,Jasa Fotocopy,Surabaya,27,14,9,True,3310,True,0.0,98,18254482,18540851,True
+365,Usaha Sukses 365,Toko Elektronik,Palembang,64,12,38,False,6002,True,3.0,471,33016352,186026379,True
+366,Usaha Berkah 366,Toko Elektronik,Jakarta,48,9,48,False,0,True,0.0,270,10456373,28894669,True
+367,Usaha Berkah 367,Bengkel Motor,Palembang,31,2,47,True,0,True,4.1,127,81507818,177859414,True
+368,Usaha Sukses 368,Toko Kelontong,Makassar,47,11,30,False,2733,True,0.0,258,50300210,186504871,True
+369,Usaha Sukses 369,Jasa Laundry,Tangerang,60,6,24,False,0,False,4.1,109,55340113,157703576,True
+370,Usaha Maju 370,Jasa Laundry,Semarang,53,7,1,True,0,True,5.0,154,5881653,90620282,True
+371,Usaha Sejahtera 371,Jasa Laundry,Jakarta,42,15,36,True,618,False,0.0,79,23576833,81132222,False
+372,Usaha Sejahtera 372,Bengkel Motor,Bekasi,44,2,37,False,1264,False,0.0,88,70535348,195111774,False
+373,Usaha Berkah 373,Apotek,Bekasi,27,12,37,False,916,False,0.0,450,63291349,121809195,True
+374,Usaha Berkah 374,Bengkel Motor,Makassar,25,11,50,False,4993,True,0.0,276,80821325,50152580,True
+375,Usaha Sejahtera 375,Salon Kecantikan,Jakarta,50,8,49,True,7076,False,0.0,75,22742113,100239458,True
+376,Usaha Berkah 376,Jasa Fotocopy,Depok,41,2,26,False,2209,False,4.0,333,81682706,62640005,False
+377,Usaha Sejahtera 377,Bengkel Motor,Surabaya,42,13,28,False,1843,False,0.0,187,51749089,61134200,True
+378,Usaha Berkah 378,Toko Pakaian,Bandung,47,10,29,True,0,True,3.4,191,25936786,33035638,True
+379,Usaha Berkah 379,Bengkel Motor,Makassar,34,14,19,True,0,True,0.0,230,68242092,16106400,True
+380,Usaha Sejahtera 380,Bengkel Motor,Palembang,58,13,17,False,301,False,3.5,30,43119652,63873937,True
+381,Usaha Maju 381,Warung Makan,Semarang,25,2,25,False,0,True,3.6,452,92162488,113756538,False
+382,Usaha Sukses 382,Jasa Fotocopy,Surabaya,45,8,39,True,3258,False,3.1,472,76056927,91853358,True
+383,Usaha Sukses 383,Salon Kecantikan,Jakarta,47,11,23,False,0,True,0.0,415,13322800,177984858,False
+384,Usaha Sukses 384,Warung Makan,Palembang,42,4,10,False,0,True,4.5,266,95998934,174402862,True
+385,Usaha Sejahtera 385,Kafe,Medan,61,3,28,False,0,False,3.4,70,82984620,155318561,False
+386,Usaha Sejahtera 386,Salon Kecantikan,Bekasi,58,15,9,False,9254,True,0.0,34,79804948,153065774,True
+387,Usaha Berkah 387,Salon Kecantikan,Tangerang,34,12,2,False,0,False,0.0,226,90476210,83496598,True
+388,Usaha Sejahtera 388,Toko Kelontong,Bandung,36,1,49,False,9770,True,4.4,183,15667011,194721518,False
+389,Usaha Sejahtera 389,Jasa Fotocopy,Makassar,55,12,42,False,6348,False,0.0,70,26983035,61877791,False
+390,Usaha Sukses 390,Warung Makan,Bekasi,51,4,48,True,1083,True,0.0,443,87820305,141518044,True
+391,Usaha Sukses 391,Bengkel Motor,Depok,50,13,3,False,0,False,4.0,231,66324136,21385935,True
+392,Usaha Sejahtera 392,Jasa Fotocopy,Palembang,50,12,3,False,3110,False,0.0,203,45876565,86749613,True
+393,Usaha Sukses 393,Toko Pakaian,Makassar,28,12,34,True,0,False,4.4,57,29128507,167154924,True
+394,Usaha Sejahtera 394,Kafe,Depok,45,8,2,True,0,True,0.0,46,38565477,96993160,True
+395,Usaha Sejahtera 395,Toko Kelontong,Surabaya,32,12,29,False,8582,False,3.8,194,10892974,55871587,True
+396,Usaha Sejahtera 396,Salon Kecantikan,Bandung,36,13,46,True,0,False,0.0,373,64895766,87518934,True
+397,Usaha Berkah 397,Salon Kecantikan,Medan,25,10,49,False,7514,False,0.0,278,5771825,173204442,False
+398,Usaha Sejahtera 398,Bengkel Motor,Makassar,55,8,27,False,9850,True,4.8,142,88183589,178748036,True
+399,Usaha Sejahtera 399,Warung Makan,Bandung,34,1,42,False,2381,True,0.0,169,16771255,23161757,False
+400,Usaha Sejahtera 400,Salon Kecantikan,Bekasi,64,11,45,True,0,False,3.2,153,48328415,108937100,True
+401,Usaha Berkah 401,Kafe,Palembang,29,5,31,True,4496,False,0.0,268,33164968,196785308,True
+402,Usaha Berkah 402,Toko Kelontong,Makassar,65,9,6,False,0,False,0.0,132,75516816,164388688,True
+403,Usaha Maju 403,Salon Kecantikan,Makassar,61,8,34,False,0,True,4.4,99,5212187,41730987,True
+404,Usaha Berkah 404,Bengkel Motor,Makassar,51,7,3,False,0,True,4.3,353,42799296,78294682,True
+405,Usaha Maju 405,Toko Pakaian,Palembang,60,6,50,True,5460,False,0.0,370,81359356,175354453,True
+406,Usaha Sejahtera 406,Bengkel Motor,Tangerang,46,15,44,False,0,True,4.0,321,66823092,154141127,True
+407,Usaha Sukses 407,Kafe,Jakarta,58,5,37,False,3412,False,0.0,33,25039365,85285414,True
+408,Usaha Maju 408,Kafe,Palembang,35,10,39,False,9751,True,0.0,361,47211394,18490134,True
+409,Usaha Berkah 409,Toko Elektronik,Medan,48,8,20,True,0,True,3.7,19,32125189,34858229,False
+410,Usaha Berkah 410,Toko Elektronik,Palembang,34,4,22,False,0,False,4.5,50,74276026,191654913,True
+411,Usaha Sejahtera 411,Warung Makan,Semarang,49,12,34,True,5095,True,3.7,455,11192775,37676455,True
+412,Usaha Maju 412,Warung Makan,Makassar,44,11,14,False,3154,False,0.0,272,47835559,128411073,True
+413,Usaha Maju 413,Salon Kecantikan,Bandung,42,2,1,True,8888,False,0.0,138,23999435,199073505,True
+414,Usaha Sejahtera 414,Salon Kecantikan,Surabaya,44,10,22,False,2131,True,0.0,462,95663530,23544183,True
+415,Usaha Berkah 415,Toko Kelontong,Depok,50,3,46,False,0,False,0.0,418,31594858,190085364,False
+416,Usaha Berkah 416,Toko Elektronik,Makassar,33,2,45,False,7464,False,0.0,240,36097470,70074367,False
+417,Usaha Maju 417,Jasa Laundry,Depok,36,12,43,False,0,False,0.0,15,13773168,137596596,False
+418,Usaha Sukses 418,Toko Elektronik,Bandung,43,13,23,True,6646,True,0.0,284,92167893,29038512,True
+419,Usaha Sukses 419,Kafe,Makassar,51,4,40,True,7903,False,3.7,416,98155137,168637355,True
+420,Usaha Sukses 420,Apotek,Tangerang,59,12,16,True,9407,False,4.2,237,48671508,159005221,True
+421,Usaha Sukses 421,Salon Kecantikan,Bekasi,50,2,39,True,0,False,0.0,330,93605814,26504008,False
+422,Usaha Sejahtera 422,Apotek,Jakarta,34,11,10,False,0,False,0.0,100,32603443,192943268,True
+423,Usaha Maju 423,Apotek,Bekasi,52,12,23,True,8362,False,4.7,31,54556257,157340230,True
+424,Usaha Berkah 424,Jasa Fotocopy,Tangerang,32,14,19,True,7073,False,0.0,364,56377152,118993560,True
+425,Usaha Sejahtera 425,Salon Kecantikan,Semarang,33,4,36,False,0,False,3.6,446,94934747,43701844,True
+426,Usaha Berkah 426,Warung Makan,Bandung,56,11,28,True,2248,False,0.0,457,98333735,172250310,True
+427,Usaha Sejahtera 427,Toko Elektronik,Palembang,52,9,29,False,0,True,3.8,3,82569592,143722991,True
+428,Usaha Sejahtera 428,Jasa Fotocopy,Bekasi,51,15,35,False,620,False,0.0,57,82882357,139260505,True
+429,Usaha Berkah 429,Salon Kecantikan,Palembang,42,8,34,True,4017,False,4.4,276,82796412,93886005,True
+430,Usaha Maju 430,Jasa Fotocopy,Jakarta,55,8,33,False,0,False,0.0,491,44542951,87633800,True
+431,Usaha Maju 431,Apotek,Bekasi,28,11,31,True,4780,True,0.0,248,16074327,44043342,True
+432,Usaha Maju 432,Toko Pakaian,Bandung,64,5,18,False,1827,True,4.3,189,28541704,80129456,True
+433,Usaha Sejahtera 433,Toko Elektronik,Bandung,58,14,3,False,2376,True,0.0,385,60424925,112855607,True
+434,Usaha Sukses 434,Salon Kecantikan,Medan,61,12,23,True,0,True,3.3,204,68918769,90897623,True
+435,Usaha Sejahtera 435,Kafe,Depok,55,5,10,False,4731,False,0.0,347,47371009,152338818,True
+436,Usaha Berkah 436,Toko Kelontong,Palembang,65,6,28,False,0,False,0.0,410,18190487,78543360,True
+437,Usaha Sukses 437,Toko Elektronik,Medan,62,13,13,False,5132,True,4.7,6,60196875,36225811,True
+438,Usaha Sukses 438,Jasa Laundry,Medan,43,5,13,True,1506,True,4.9,326,21346394,42206111,True
+439,Usaha Sejahtera 439,Kafe,Makassar,36,15,8,True,0,False,0.0,338,15162184,181471337,False
+440,Usaha Maju 440,Kafe,Tangerang,41,3,50,True,0,True,0.0,198,49648162,26121871,False
+441,Usaha Maju 441,Salon Kecantikan,Semarang,29,8,13,False,8061,True,4.1,220,34311339,174810321,True
+442,Usaha Sukses 442,Toko Pakaian,Surabaya,27,2,5,False,0,True,0.0,76,92626101,181888691,False
+443,Usaha Berkah 443,Kafe,Bekasi,34,12,22,False,8444,False,0.0,223,59212251,28817241,True
+444,Usaha Berkah 444,Kafe,Semarang,32,10,35,False,0,False,0.0,28,89862181,183697715,False
+445,Usaha Maju 445,Toko Kelontong,Semarang,43,11,13,True,6294,True,0.0,356,57358969,38660321,True
+446,Usaha Maju 446,Toko Elektronik,Surabaya,65,8,48,True,584,True,4.4,303,37008932,141327363,True
+447,Usaha Maju 447,Toko Elektronik,Palembang,53,1,3,False,5533,True,0.0,60,33410963,185516505,False
+448,Usaha Sukses 448,Jasa Fotocopy,Bandung,62,4,5,True,8010,True,0.0,464,87996496,22294799,True
+449,Usaha Sejahtera 449,Warung Makan,Bandung,65,1,20,True,0,True,4.6,54,20324937,143450940,False
+450,Usaha Sejahtera 450,Toko Kelontong,Medan,52,6,48,False,0,True,3.6,493,33619492,22237045,True
+451,Usaha Maju 451,Toko Kelontong,Surabaya,42,3,49,False,6060,True,0.0,124,83112812,20925027,False
+452,Usaha Sukses 452,Salon Kecantikan,Jakarta,56,2,1,True,1460,False,0.0,355,68889312,195853525,False
+453,Usaha Sejahtera 453,Toko Pakaian,Palembang,53,7,16,True,9769,True,0.0,313,16814004,178360476,True
+454,Usaha Maju 454,Jasa Laundry,Depok,25,9,16,True,8686,True,0.0,441,77440371,146241934,True
+455,Usaha Sejahtera 455,Toko Pakaian,Jakarta,37,2,10,False,0,True,4.3,22,12251463,183103512,False
+456,Usaha Sejahtera 456,Kafe,Bekasi,46,10,49,False,1710,True,3.3,14,70103838,148218414,False
+457,Usaha Sejahtera 457,Toko Elektronik,Makassar,62,6,27,True,0,True,3.7,50,36825487,120755248,True
+458,Usaha Sukses 458,Bengkel Motor,Surabaya,55,10,32,True,0,True,4.9,232,28898911,113973187,True
+459,Usaha Sukses 459,Bengkel Motor,Tangerang,42,4,22,True,9317,True,0.0,69,19912833,134965910,True
+460,Usaha Sejahtera 460,Jasa Laundry,Medan,43,10,11,True,1416,False,0.0,441,34050434,168801280,True
+461,Usaha Sukses 461,Toko Pakaian,Jakarta,52,12,16,True,0,False,4.8,302,24994374,164001631,True
+462,Usaha Sukses 462,Warung Makan,Jakarta,55,12,50,True,0,False,0.0,414,98503250,36306461,True
+463,Usaha Sejahtera 463,Toko Kelontong,Palembang,25,12,47,False,2174,False,0.0,122,91924795,34355017,True
+464,Usaha Maju 464,Salon Kecantikan,Semarang,61,12,38,True,0,False,4.7,207,29822996,109433984,True
+465,Usaha Berkah 465,Toko Kelontong,Depok,46,9,3,False,0,False,4.6,41,88276088,100112352,True
+466,Usaha Berkah 466,Jasa Fotocopy,Tangerang,28,2,25,False,0,True,0.0,187,28523992,183992522,False
+467,Usaha Berkah 467,Jasa Fotocopy,Medan,33,6,16,True,0,True,3.6,459,40884163,145174960,True
+468,Usaha Maju 468,Warung Makan,Surabaya,48,6,29,False,7703,False,0.0,317,54411699,190739330,True
+469,Usaha Berkah 469,Bengkel Motor,Semarang,30,2,26,True,0,True,3.3,57,98560777,49716111,False
+470,Usaha Sejahtera 470,Jasa Fotocopy,Jakarta,43,7,44,True,0,False,0.0,227,91528081,15766610,True
+471,Usaha Berkah 471,Warung Makan,Medan,58,11,22,False,0,False,0.0,303,94369591,197062892,True
+472,Usaha Sukses 472,Toko Elektronik,Bekasi,61,3,20,True,0,True,0.0,190,43674340,22702080,False
+473,Usaha Maju 473,Toko Elektronik,Bandung,64,15,11,False,2873,True,3.5,21,47496800,164222926,False
+474,Usaha Maju 474,Jasa Laundry,Bandung,38,9,46,True,0,False,3.7,276,26823481,153248691,True
+475,Usaha Berkah 475,Kafe,Semarang,34,8,21,True,8948,False,0.0,242,43899945,164008825,True
+476,Usaha Sukses 476,Jasa Laundry,Surabaya,55,15,3,True,5047,True,0.0,316,34576862,129714883,True
+477,Usaha Maju 477,Warung Makan,Makassar,37,10,34,True,0,True,3.2,434,64788371,191747819,True
+478,Usaha Berkah 478,Jasa Fotocopy,Depok,37,8,21,True,0,False,4.4,218,54610894,113646317,True
+479,Usaha Maju 479,Jasa Laundry,Tangerang,44,8,36,True,7278,False,0.0,147,26983567,123771588,True
+480,Usaha Sukses 480,Salon Kecantikan,Makassar,63,2,10,True,0,False,0.0,33,84279578,110870638,False
+481,Usaha Sukses 481,Toko Pakaian,Depok,36,9,30,True,3047,False,0.0,283,70845287,21336810,True
+482,Usaha Maju 482,Apotek,Bekasi,56,9,48,False,439,True,3.5,489,90973864,180875496,True
+483,Usaha Maju 483,Kafe,Bandung,56,15,45,True,1955,False,0.0,496,13955654,170763665,True
+484,Usaha Sukses 484,Apotek,Depok,41,11,44,False,6114,True,0.0,83,83068345,25706265,False
+485,Usaha Sukses 485,Salon Kecantikan,Tangerang,35,1,18,False,0,False,3.6,271,90757950,30623004,False
+486,Usaha Sejahtera 486,Toko Kelontong,Makassar,35,9,21,False,0,False,0.0,49,76728681,165705084,False
+487,Usaha Sejahtera 487,Warung Makan,Bandung,58,5,24,False,0,False,3.2,79,72562908,69354703,True
+488,Usaha Berkah 488,Kafe,Semarang,29,2,9,True,0,False,0.0,353,53663129,47316280,False
+489,Usaha Maju 489,Salon Kecantikan,Bekasi,26,12,8,True,2332,True,0.0,64,33164383,44955194,True
+490,Usaha Sukses 490,Toko Kelontong,Surabaya,26,13,31,False,3217,True,4.6,262,84614758,25908891,True
+491,Usaha Maju 491,Warung Makan,Surabaya,44,11,1,True,9859,True,3.4,179,8927092,34368387,True
+492,Usaha Maju 492,Apotek,Tangerang,47,3,33,True,1623,True,4.4,493,42830178,56110086,True
+493,Usaha Berkah 493,Toko Kelontong,Medan,57,14,46,False,0,True,0.0,344,19404851,58546158,True
+494,Usaha Sukses 494,Kafe,Medan,57,4,27,True,0,True,0.0,56,74756655,46483698,False
+495,Usaha Maju 495,Toko Pakaian,Palembang,27,2,21,False,6304,False,0.0,307,46876858,194427655,False
+496,Usaha Sukses 496,Bengkel Motor,Palembang,51,5,28,True,7793,False,3.0,345,70987927,190414256,True
+497,Usaha Sukses 497,Jasa Fotocopy,Surabaya,32,3,26,False,2764,True,0.0,499,31720922,100900741,False
+498,Usaha Sukses 498,Toko Kelontong,Medan,52,12,32,False,0,False,0.0,243,94479873,171910986,True
+499,Usaha Sukses 499,Jasa Fotocopy,Bekasi,34,13,30,True,4107,False,0.0,118,89338531,46133662,True
+500,Usaha Berkah 500,Toko Kelontong,Semarang,26,3,25,False,4960,True,4.3,266,71060289,135096783,False
+501,Usaha Sukses 501,Toko Elektronik,Palembang,41,9,22,True,7051,True,0.0,230,47219420,111022076,True
+502,Usaha Berkah 502,Warung Makan,Bandung,60,11,50,False,8052,False,3.6,199,70425092,39362005,True
+503,Usaha Sukses 503,Jasa Fotocopy,Palembang,61,8,31,True,6412,False,0.0,302,55707149,175608483,True
+504,Usaha Maju 504,Jasa Laundry,Jakarta,26,10,3,True,0,False,4.5,320,50802675,112159388,True
+505,Usaha Maju 505,Jasa Laundry,Depok,47,1,43,True,3844,False,4.8,33,45924657,40728155,False
+506,Usaha Berkah 506,Jasa Fotocopy,Tangerang,27,8,43,False,0,False,4.4,301,7984525,94963668,False
+507,Usaha Sukses 507,Jasa Laundry,Makassar,31,13,32,True,5504,False,0.0,85,87520800,90402028,True
+508,Usaha Sukses 508,Bengkel Motor,Semarang,65,14,5,True,0,False,3.6,293,58959197,70635804,True
+509,Usaha Berkah 509,Apotek,Surabaya,62,6,18,True,0,False,3.7,39,92447790,91026440,True
+510,Usaha Maju 510,Kafe,Palembang,45,4,27,False,0,False,4.8,321,99399575,148572855,True
+511,Usaha Sukses 511,Bengkel Motor,Semarang,42,15,41,False,8556,True,0.0,236,24829822,74524890,True
+512,Usaha Maju 512,Kafe,Depok,45,14,5,True,0,False,0.0,330,26553261,78839369,True
+513,Usaha Sejahtera 513,Kafe,Medan,32,3,13,True,5087,False,0.0,286,63536768,123284896,True
+514,Usaha Berkah 514,Bengkel Motor,Bandung,42,3,2,False,0,True,4.9,248,7672106,24851801,True
+515,Usaha Berkah 515,Jasa Laundry,Makassar,44,14,5,False,0,True,0.0,482,23865664,73361815,True
+516,Usaha Berkah 516,Jasa Fotocopy,Makassar,58,5,32,True,9827,True,0.0,168,83426937,114676584,True
+517,Usaha Sejahtera 517,Kafe,Medan,34,2,12,True,0,False,0.0,130,84118793,25012360,False
+518,Usaha Maju 518,Toko Kelontong,Tangerang,59,7,31,True,0,True,0.0,243,54357131,92724130,True
+519,Usaha Berkah 519,Warung Makan,Medan,41,9,25,False,0,True,4.7,198,6055770,115488575,True
+520,Usaha Maju 520,Toko Pakaian,Surabaya,40,5,14,True,0,False,0.0,404,9547522,83561118,True
+521,Usaha Sukses 521,Toko Elektronik,Depok,46,12,28,True,4275,True,0.0,215,85814633,157029542,True
+522,Usaha Sukses 522,Warung Makan,Jakarta,36,11,29,True,6564,True,0.0,160,82283822,32073998,True
+523,Usaha Sejahtera 523,Jasa Fotocopy,Bandung,63,11,27,False,0,False,3.5,351,84593852,97934202,True
+524,Usaha Sejahtera 524,Toko Kelontong,Depok,48,3,26,False,339,True,4.8,498,67065617,63221679,False
+525,Usaha Sejahtera 525,Warung Makan,Depok,64,7,39,False,1459,False,4.9,60,6894470,151153483,False
+526,Usaha Sukses 526,Toko Elektronik,Surabaya,39,12,14,True,0,False,0.0,195,22475058,125778517,True
+527,Usaha Sejahtera 527,Toko Pakaian,Medan,51,3,27,True,4754,False,4.2,464,38328672,109223874,True
+528,Usaha Sukses 528,Toko Kelontong,Jakarta,55,3,21,False,6283,False,0.0,37,17788187,159518542,False
+529,Usaha Maju 529,Bengkel Motor,Semarang,47,10,43,True,4155,False,0.0,500,57975309,190190527,True
+530,Usaha Berkah 530,Apotek,Bandung,41,3,33,False,0,False,3.2,363,76192277,126213670,False
+531,Usaha Berkah 531,Jasa Laundry,Jakarta,33,8,18,False,0,False,0.0,313,40400991,148773798,True
+532,Usaha Sejahtera 532,Jasa Laundry,Semarang,34,9,43,False,3095,True,3.5,18,68115555,79853339,False
+533,Usaha Sukses 533,Kafe,Surabaya,56,1,29,False,0,False,0.0,57,24871432,43193181,False
+534,Usaha Sejahtera 534,Toko Pakaian,Bandung,35,12,33,False,9560,True,3.8,39,38038691,143710592,True
+535,Usaha Maju 535,Warung Makan,Bekasi,32,7,24,True,0,True,3.2,425,99986778,187043739,True
+536,Usaha Maju 536,Apotek,Jakarta,46,1,42,False,0,True,4.7,410,91388439,85954888,False
+537,Usaha Berkah 537,Toko Kelontong,Palembang,63,7,6,False,0,True,4.9,443,58541768,33941304,True
+538,Usaha Sejahtera 538,Salon Kecantikan,Depok,50,5,42,True,4891,False,0.0,376,46621092,193868070,True
+539,Usaha Maju 539,Toko Kelontong,Tangerang,57,4,32,False,0,False,0.0,288,85576371,123567144,True
+540,Usaha Sukses 540,Jasa Laundry,Makassar,36,7,41,False,662,False,0.0,346,35095669,183841650,True
+541,Usaha Sejahtera 541,Toko Elektronik,Palembang,65,11,34,True,0,False,0.0,40,69103912,90636201,False
+542,Usaha Sejahtera 542,Toko Pakaian,Medan,58,7,19,True,738,True,0.0,211,17681476,134730277,True
+543,Usaha Maju 543,Jasa Laundry,Bekasi,62,2,50,True,7583,True,4.7,23,16179070,121736677,True
+544,Usaha Maju 544,Jasa Laundry,Makassar,54,13,43,False,0,False,3.4,40,86074604,79610056,True
+545,Usaha Berkah 545,Kafe,Palembang,26,1,26,True,2813,False,0.0,354,59370473,186554587,True
+546,Usaha Sukses 546,Toko Pakaian,Makassar,64,6,45,False,0,True,3.3,97,20020641,14264163,True
+547,Usaha Sejahtera 547,Warung Makan,Medan,55,11,10,True,0,True,3.6,237,24886456,137235477,True
+548,Usaha Berkah 548,Salon Kecantikan,Bandung,53,8,31,True,0,True,3.6,424,57577566,23669319,True
+549,Usaha Berkah 549,Kafe,Depok,56,12,38,False,7987,False,0.0,262,84327948,174147016,True
+550,Usaha Sukses 550,Bengkel Motor,Jakarta,58,1,28,False,4388,False,0.0,59,71409428,177153869,False
+551,Usaha Maju 551,Toko Elektronik,Depok,26,3,19,True,0,False,0.0,118,73133743,68975898,False
+552,Usaha Maju 552,Apotek,Semarang,33,15,19,False,0,False,0.0,409,26746728,176924543,True
+553,Usaha Berkah 553,Toko Elektronik,Bandung,36,4,11,False,6815,False,0.0,120,33109613,159473053,True
+554,Usaha Berkah 554,Jasa Laundry,Bekasi,47,11,11,True,1043,False,0.0,58,87887892,70851702,True
+555,Usaha Sejahtera 555,Toko Elektronik,Bekasi,46,13,23,True,0,True,4.4,474,63764105,132711412,True
+556,Usaha Berkah 556,Toko Kelontong,Makassar,64,13,7,True,2736,True,4.8,80,44208083,128519060,True
+557,Usaha Sukses 557,Toko Kelontong,Bandung,48,6,9,True,7194,False,3.5,414,68574016,101622409,True
+558,Usaha Sejahtera 558,Toko Kelontong,Bekasi,48,12,49,False,0,True,4.5,271,61602596,71252141,True
+559,Usaha Sukses 559,Kafe,Depok,54,14,34,False,7251,True,4.4,264,14339029,32757478,True
+560,Usaha Sukses 560,Salon Kecantikan,Depok,28,7,49,True,9413,True,0.0,214,58955904,192769825,True
+561,Usaha Maju 561,Jasa Laundry,Tangerang,25,14,18,True,0,False,4.8,319,87971716,185029872,True
+562,Usaha Maju 562,Kafe,Medan,44,2,3,False,0,True,0.0,109,17458031,147350800,False
+563,Usaha Maju 563,Salon Kecantikan,Jakarta,26,15,35,False,4979,False,4.5,430,55060376,79727843,True
+564,Usaha Maju 564,Toko Kelontong,Jakarta,32,8,20,True,0,False,4.6,297,80913174,178508840,True
+565,Usaha Sejahtera 565,Jasa Laundry,Bekasi,43,11,46,True,0,True,3.7,298,30844329,106977015,True
+566,Usaha Sejahtera 566,Kafe,Depok,30,2,4,False,7802,True,0.0,39,54565830,191683140,False
+567,Usaha Sukses 567,Toko Pakaian,Makassar,56,11,28,False,0,False,3.3,65,70063976,132866345,False
+568,Usaha Berkah 568,Bengkel Motor,Semarang,55,1,48,True,0,True,0.0,56,21222417,109209976,False
+569,Usaha Berkah 569,Jasa Fotocopy,Bandung,32,6,20,False,0,False,0.0,14,24175605,48155363,True
+570,Usaha Sukses 570,Warung Makan,Bekasi,43,4,12,False,2004,False,4.7,213,69582407,163829378,True
+571,Usaha Sukses 571,Jasa Laundry,Depok,55,14,47,True,8270,False,0.0,341,65273791,49992209,True
+572,Usaha Maju 572,Toko Kelontong,Makassar,64,7,25,True,0,False,4.9,455,64471365,84457310,True
+573,Usaha Sejahtera 573,Warung Makan,Makassar,65,13,50,False,9164,True,4.9,277,82424245,24193358,True
+574,Usaha Sejahtera 574,Toko Elektronik,Palembang,26,2,43,True,4504,True,4.7,429,82786253,129246940,True
+575,Usaha Maju 575,Kafe,Makassar,27,8,2,False,0,True,0.0,12,75853774,95196698,False
+576,Usaha Berkah 576,Toko Kelontong,Surabaya,59,3,19,True,4187,True,3.6,208,96081300,55416877,False
+577,Usaha Maju 577,Salon Kecantikan,Jakarta,28,5,25,True,0,True,0.0,457,48515775,79238709,True
+578,Usaha Berkah 578,Warung Makan,Medan,40,13,39,True,0,False,3.5,162,67387558,158477311,True
+579,Usaha Sukses 579,Warung Makan,Depok,65,4,2,False,4035,True,0.0,290,59592513,129717450,True
+580,Usaha Sejahtera 580,Salon Kecantikan,Tangerang,59,3,16,False,0,True,4.6,492,88312959,87644808,True
+581,Usaha Sejahtera 581,Warung Makan,Jakarta,55,5,39,False,0,False,4.2,261,42756962,22209714,True
+582,Usaha Berkah 582,Toko Pakaian,Surabaya,50,12,8,True,0,False,4.2,490,47722031,193100091,True
+583,Usaha Maju 583,Toko Elektronik,Bekasi,40,11,21,False,7533,False,4.8,68,91764149,10549625,True
+584,Usaha Berkah 584,Warung Makan,Bandung,51,9,45,False,0,True,4.1,456,95142381,129501229,True
+585,Usaha Maju 585,Kafe,Makassar,47,7,12,True,7580,False,3.9,113,7655050,85466462,True
+586,Usaha Maju 586,Bengkel Motor,Surabaya,64,11,20,True,8090,False,3.6,463,99495682,199775279,True
+587,Usaha Berkah 587,Bengkel Motor,Depok,32,14,18,False,9040,True,3.1,65,13730772,44206975,False
+588,Usaha Sejahtera 588,Jasa Fotocopy,Bekasi,37,14,44,True,0,False,4.9,328,95341923,184491112,True
+589,Usaha Maju 589,Kafe,Depok,42,2,44,False,0,False,4.8,114,11303488,84607079,False
+590,Usaha Sukses 590,Jasa Laundry,Jakarta,50,4,22,True,3696,False,4.8,100,27076343,98375565,True
+591,Usaha Berkah 591,Warung Makan,Semarang,52,13,2,False,0,True,3.9,490,50741665,24611709,True
+592,Usaha Sejahtera 592,Toko Kelontong,Makassar,64,8,49,True,0,True,4.9,469,9475312,111306234,True
+593,Usaha Berkah 593,Salon Kecantikan,Jakarta,53,1,20,False,1668,True,3.6,195,58912988,35724237,False
+594,Usaha Sukses 594,Bengkel Motor,Makassar,64,1,30,False,0,False,3.7,480,95701132,16971827,False
+595,Usaha Maju 595,Apotek,Medan,31,2,1,True,9391,True,0.0,181,61506603,139224641,True
+596,Usaha Sukses 596,Salon Kecantikan,Medan,33,13,3,True,5106,False,0.0,159,83338313,155262156,True
+597,Usaha Sejahtera 597,Toko Elektronik,Bekasi,63,6,19,False,8481,True,3.5,419,80088096,24658532,True
+598,Usaha Sejahtera 598,Bengkel Motor,Medan,29,6,13,False,0,False,0.0,315,45215871,122392660,True
+599,Usaha Berkah 599,Toko Elektronik,Jakarta,56,4,1,True,7643,True,4.0,393,49495204,110908056,True
+600,Usaha Sejahtera 600,Warung Makan,Tangerang,25,2,23,True,2333,False,0.0,99,89736292,167218993,False
+601,Usaha Maju 601,Warung Makan,Jakarta,37,4,19,True,4292,True,0.0,433,79424395,76025529,True
+602,Usaha Berkah 602,Salon Kecantikan,Bekasi,31,1,44,True,0,True,0.0,479,33217583,91892242,False
+603,Usaha Maju 603,Jasa Laundry,Bandung,58,13,40,False,1941,True,4.6,98,76478283,111521089,True
+604,Usaha Maju 604,Apotek,Depok,65,4,3,True,0,True,0.0,126,12148298,178969150,False
+605,Usaha Sejahtera 605,Jasa Fotocopy,Makassar,56,4,47,True,0,True,4.0,384,91580039,146676199,True
+606,Usaha Sukses 606,Salon Kecantikan,Tangerang,48,9,45,False,0,False,0.0,297,58814070,181290166,True
+607,Usaha Berkah 607,Bengkel Motor,Medan,37,8,16,False,5013,False,0.0,292,26100279,110423679,True
+608,Usaha Berkah 608,Salon Kecantikan,Surabaya,43,8,34,False,9567,True,0.0,262,88366096,100294703,True
+609,Usaha Sukses 609,Kafe,Depok,48,13,32,False,0,False,3.4,119,40651567,183236125,True
+610,Usaha Berkah 610,Toko Pakaian,Palembang,57,9,42,True,0,True,3.2,184,10138040,156572755,False
+611,Usaha Sejahtera 611,Jasa Laundry,Bekasi,44,12,50,False,9896,True,0.0,4,45194740,85657263,True
+612,Usaha Sukses 612,Kafe,Makassar,25,8,42,True,0,True,4.4,107,68678024,72739590,True
+613,Usaha Sukses 613,Toko Elektronik,Tangerang,30,6,13,False,0,True,0.0,230,79953463,18081000,True
+614,Usaha Sejahtera 614,Toko Pakaian,Jakarta,56,13,43,False,0,True,0.0,217,97041525,118278464,True
+615,Usaha Maju 615,Jasa Laundry,Makassar,26,10,3,True,5410,False,0.0,104,57430296,27101820,True
+616,Usaha Sejahtera 616,Toko Elektronik,Surabaya,46,10,29,False,2808,True,3.1,352,85982133,141161141,True
+617,Usaha Sejahtera 617,Toko Kelontong,Depok,43,4,15,False,7449,True,0.0,265,6482715,56124114,True
+618,Usaha Sukses 618,Kafe,Bandung,32,3,35,False,0,True,0.0,489,32713235,44878431,False
+619,Usaha Maju 619,Kafe,Semarang,35,10,37,False,8232,False,0.0,103,5999023,48303589,True
+620,Usaha Sukses 620,Apotek,Medan,58,6,37,False,0,False,4.5,147,91744801,132488876,True
+621,Usaha Maju 621,Kafe,Makassar,36,7,16,True,0,False,0.0,466,93460225,59242959,True
+622,Usaha Berkah 622,Kafe,Jakarta,40,15,11,False,0,True,4.8,210,79198767,42542597,True
+623,Usaha Berkah 623,Toko Kelontong,Palembang,45,7,29,True,0,True,3.9,37,90747226,196424589,True
+624,Usaha Sukses 624,Kafe,Tangerang,50,14,13,False,175,False,4.4,69,48904009,189931097,True
+625,Usaha Sukses 625,Toko Elektronik,Surabaya,30,9,43,True,0,True,0.0,420,42465789,53316499,True
+626,Usaha Berkah 626,Apotek,Surabaya,36,5,8,False,1271,True,0.0,78,64144114,106123244,False
+627,Usaha Berkah 627,Jasa Fotocopy,Medan,53,12,4,True,0,False,0.0,26,85289763,11252448,False
+628,Usaha Sukses 628,Bengkel Motor,Medan,48,15,16,True,262,False,5.0,172,30790180,192525244,True
+629,Usaha Sejahtera 629,Toko Kelontong,Bandung,35,1,27,True,0,False,4.2,478,77706099,116049163,False
+630,Usaha Berkah 630,Bengkel Motor,Medan,31,6,21,True,6588,False,3.8,234,34540811,27721111,True
+631,Usaha Maju 631,Apotek,Tangerang,27,2,14,False,0,False,4.4,405,81397410,56025705,False
+632,Usaha Berkah 632,Apotek,Tangerang,65,12,25,True,0,True,0.0,500,94438746,139420889,True
+633,Usaha Berkah 633,Apotek,Makassar,53,7,33,True,3811,True,3.6,377,62512010,75376308,True
+634,Usaha Berkah 634,Salon Kecantikan,Tangerang,56,5,13,True,0,True,3.5,371,85272292,129111845,True
+635,Usaha Maju 635,Salon Kecantikan,Bekasi,45,11,49,True,0,False,3.5,375,49462343,102000458,True
+636,Usaha Berkah 636,Bengkel Motor,Medan,63,14,25,False,7247,True,4.7,35,30832275,23987328,True
+637,Usaha Sejahtera 637,Bengkel Motor,Bandung,30,3,38,True,8313,True,0.0,371,67689644,93607704,False
+638,Usaha Sejahtera 638,Bengkel Motor,Depok,36,10,16,False,0,False,3.5,400,69581639,31479122,True
+639,Usaha Maju 639,Kafe,Depok,35,8,29,False,0,True,0.0,10,56193233,124728584,True
+640,Usaha Maju 640,Apotek,Palembang,34,9,47,True,0,False,0.0,156,65881578,86027833,True
+641,Usaha Sukses 641,Toko Kelontong,Tangerang,33,12,31,True,3106,True,4.7,373,55232033,141923602,True
+642,Usaha Sukses 642,Kafe,Tangerang,49,8,20,True,0,True,3.8,289,26791910,62137735,True
+643,Usaha Maju 643,Jasa Laundry,Palembang,56,11,45,False,6313,False,3.5,17,53508204,179370078,True
+644,Usaha Berkah 644,Salon Kecantikan,Bekasi,63,8,44,True,0,True,3.0,394,17389075,182979107,False
+645,Usaha Sukses 645,Kafe,Makassar,30,9,13,False,6993,False,0.0,256,76565068,186761005,True
+646,Usaha Maju 646,Kafe,Surabaya,31,11,37,False,4407,True,0.0,357,46352528,11723437,True
+647,Usaha Sukses 647,Warung Makan,Surabaya,29,13,45,False,0,False,0.0,87,28676181,110569717,False
+648,Usaha Sejahtera 648,Bengkel Motor,Semarang,36,9,8,False,3041,True,4.5,414,30754346,79619249,True
+649,Usaha Sukses 649,Toko Elektronik,Makassar,31,14,41,True,4802,True,0.0,63,42146394,27250316,True
+650,Usaha Sejahtera 650,Toko Elektronik,Semarang,31,1,4,False,9542,True,3.4,405,5974683,110842021,False
+651,Usaha Maju 651,Toko Elektronik,Semarang,46,10,28,False,0,False,0.0,418,37158168,106961738,True
+652,Usaha Sukses 652,Apotek,Jakarta,47,14,22,True,7486,False,3.1,62,76219864,85018992,True
+653,Usaha Sejahtera 653,Jasa Laundry,Semarang,64,11,43,False,0,True,5.0,490,48242747,14464162,True
+654,Usaha Berkah 654,Jasa Laundry,Semarang,39,10,32,False,5707,False,0.0,337,98885264,36965877,True
+655,Usaha Maju 655,Apotek,Medan,34,14,34,True,8158,True,0.0,426,95336873,157303059,True
+656,Usaha Sukses 656,Salon Kecantikan,Semarang,32,8,43,True,3467,True,3.2,366,8922081,53012829,True
+657,Usaha Maju 657,Kafe,Bekasi,39,12,17,False,2224,False,4.6,170,35038761,164611328,True
+658,Usaha Berkah 658,Jasa Laundry,Depok,49,11,42,False,3662,False,3.6,57,16964091,101331902,True
+659,Usaha Sejahtera 659,Toko Kelontong,Makassar,48,3,21,False,5092,True,4.7,216,47901755,107985341,True
+660,Usaha Sejahtera 660,Jasa Fotocopy,Makassar,62,4,7,False,8819,False,0.0,74,44838982,68761659,False
+661,Usaha Sukses 661,Salon Kecantikan,Makassar,43,3,48,True,0,False,3.5,434,99827813,164074422,False
+662,Usaha Sejahtera 662,Toko Elektronik,Bekasi,49,1,22,True,3687,True,4.7,372,57587561,90289520,True
+663,Usaha Sejahtera 663,Warung Makan,Palembang,50,6,28,False,0,False,0.0,36,75846080,85977937,False
+664,Usaha Sejahtera 664,Jasa Fotocopy,Depok,31,3,21,True,0,False,4.2,226,98409569,139504462,False
+665,Usaha Sejahtera 665,Bengkel Motor,Medan,37,12,42,True,0,True,3.8,218,96193599,55156994,True
+666,Usaha Berkah 666,Jasa Laundry,Semarang,36,1,8,False,0,True,0.0,125,9562440,41890814,False
+667,Usaha Sukses 667,Toko Pakaian,Makassar,36,11,48,False,7596,False,0.0,323,92670412,129485529,True
+668,Usaha Berkah 668,Toko Kelontong,Surabaya,32,8,42,True,9614,False,0.0,355,17690720,169149747,True
+669,Usaha Sukses 669,Kafe,Bekasi,61,3,7,False,8806,True,0.0,416,99051987,15300630,False
+670,Usaha Sukses 670,Toko Kelontong,Palembang,62,9,46,True,1922,True,3.0,228,47184106,43029723,True
+671,Usaha Sejahtera 671,Salon Kecantikan,Surabaya,60,5,49,True,2043,False,0.0,494,78071775,56064383,True
+672,Usaha Berkah 672,Bengkel Motor,Bekasi,27,9,19,False,9454,False,0.0,267,52260360,172718092,True
+673,Usaha Sejahtera 673,Toko Kelontong,Jakarta,40,1,13,True,0,True,4.2,110,84427788,106385820,False
+674,Usaha Sukses 674,Toko Kelontong,Palembang,41,5,25,True,0,False,4.9,346,62088619,196432550,True
+675,Usaha Sejahtera 675,Toko Kelontong,Bekasi,65,12,42,True,0,True,0.0,420,25601268,94922330,True
+676,Usaha Sukses 676,Kafe,Jakarta,63,4,5,False,8707,True,0.0,33,49205616,181846337,False
+677,Usaha Maju 677,Toko Pakaian,Bandung,39,5,1,True,0,True,0.0,487,19093227,43152716,True
+678,Usaha Maju 678,Apotek,Semarang,31,9,23,False,0,True,3.3,484,57286305,58498901,True
+679,Usaha Sukses 679,Toko Elektronik,Makassar,33,5,1,True,2337,False,0.0,27,90791097,109361570,True
+680,Usaha Sejahtera 680,Apotek,Depok,54,3,29,False,0,False,0.0,487,62413657,149746065,False
+681,Usaha Sejahtera 681,Toko Pakaian,Surabaya,44,7,50,False,1302,True,4.9,84,82217700,25411288,True
+682,Usaha Maju 682,Jasa Fotocopy,Semarang,25,7,44,True,0,False,3.8,315,30526064,11956962,True
+683,Usaha Maju 683,Bengkel Motor,Palembang,63,1,39,False,8577,True,3.2,429,22893746,147891129,False
+684,Usaha Berkah 684,Kafe,Semarang,49,3,24,True,0,True,3.6,247,44398948,81068499,False
+685,Usaha Sukses 685,Bengkel Motor,Bekasi,57,14,3,False,0,True,0.0,3,87615071,133575303,False
+686,Usaha Maju 686,Toko Kelontong,Jakarta,47,15,47,True,0,False,3.2,251,31513965,32748234,True
+687,Usaha Sejahtera 687,Kafe,Surabaya,56,1,10,False,7711,False,0.0,153,53921784,124982037,False
+688,Usaha Maju 688,Toko Kelontong,Semarang,53,3,9,False,0,True,0.0,452,31637470,39706582,False
+689,Usaha Berkah 689,Salon Kecantikan,Depok,51,12,22,True,3260,False,0.0,60,61518457,141283146,True
+690,Usaha Sejahtera 690,Jasa Laundry,Depok,57,12,48,False,1797,True,3.3,176,72108989,13663862,True
+691,Usaha Sejahtera 691,Warung Makan,Tangerang,52,10,48,True,0,False,0.0,144,70220319,32176766,True
+692,Usaha Sejahtera 692,Apotek,Bandung,57,3,16,False,4317,True,0.0,101,68604818,199639152,False
+693,Usaha Berkah 693,Jasa Fotocopy,Makassar,36,4,38,True,1973,True,0.0,19,41757086,61587225,True
+694,Usaha Sukses 694,Warung Makan,Makassar,37,2,4,False,0,False,3.4,218,69316496,26468441,False
+695,Usaha Berkah 695,Toko Pakaian,Surabaya,42,6,18,False,0,True,0.0,458,11382911,58788581,True
+696,Usaha Berkah 696,Jasa Laundry,Medan,43,8,18,True,0,True,0.0,485,70939337,107598096,True
+697,Usaha Berkah 697,Toko Kelontong,Jakarta,60,13,9,False,0,False,0.0,121,92274855,84073944,True
+698,Usaha Sukses 698,Toko Kelontong,Surabaya,33,11,48,True,9610,True,4.4,473,18238889,30100339,True
+699,Usaha Maju 699,Toko Pakaian,Semarang,37,9,47,True,2094,True,0.0,281,38893399,160416746,True
+700,Usaha Maju 700,Toko Elektronik,Surabaya,52,2,31,False,2735,False,3.6,489,80990691,26319101,False
+701,Usaha Sejahtera 701,Kafe,Semarang,59,14,33,True,7172,False,0.0,205,86499471,82878666,True
+702,Usaha Berkah 702,Salon Kecantikan,Makassar,38,10,45,True,0,False,0.0,436,34573041,89554520,True
+703,Usaha Berkah 703,Salon Kecantikan,Medan,27,9,16,False,2427,False,3.5,404,11914893,182446458,False
+704,Usaha Sejahtera 704,Jasa Fotocopy,Surabaya,25,11,23,False,0,True,0.0,369,22933045,119613706,True
+705,Usaha Maju 705,Jasa Laundry,Jakarta,65,14,1,False,4582,True,0.0,497,7098962,154254178,False
+706,Usaha Berkah 706,Kafe,Bekasi,65,11,39,True,0,True,0.0,137,32369495,166139186,True
+707,Usaha Sukses 707,Salon Kecantikan,Semarang,39,12,47,False,0,True,0.0,47,71566782,58724670,False
+708,Usaha Sejahtera 708,Bengkel Motor,Makassar,56,12,12,False,5081,True,4.6,351,86580498,60425068,True
+709,Usaha Berkah 709,Kafe,Medan,54,15,42,False,8630,True,4.2,193,56538339,15560886,True
+710,Usaha Berkah 710,Warung Makan,Bandung,40,13,6,False,9824,True,4.9,54,77795691,100835851,True
+711,Usaha Berkah 711,Bengkel Motor,Bandung,55,13,37,False,5036,False,0.0,79,37723471,24998967,True
+712,Usaha Maju 712,Jasa Fotocopy,Surabaya,26,14,3,True,0,True,0.0,72,5162459,70213495,False
+713,Usaha Sukses 713,Kafe,Bandung,47,11,19,True,0,True,0.0,86,19782157,70269788,False
+714,Usaha Maju 714,Jasa Laundry,Surabaya,64,6,8,False,710,True,3.9,171,85478491,58684926,True
+715,Usaha Sejahtera 715,Toko Pakaian,Makassar,43,6,7,False,0,False,0.0,415,15250139,10584857,True
+716,Usaha Sejahtera 716,Salon Kecantikan,Tangerang,34,7,29,False,1854,False,0.0,74,17139593,96718989,True
+717,Usaha Sejahtera 717,Kafe,Tangerang,45,8,28,False,0,False,4.6,334,38005229,112860497,True
+718,Usaha Sukses 718,Jasa Fotocopy,Palembang,56,9,35,True,0,True,0.0,269,82561262,196159706,True
+719,Usaha Sejahtera 719,Toko Kelontong,Medan,48,1,14,True,0,False,4.8,30,51888632,106867224,False
+720,Usaha Sejahtera 720,Toko Pakaian,Semarang,34,14,36,False,3452,True,4.5,60,98386109,198968591,True
+721,Usaha Berkah 721,Kafe,Tangerang,28,12,7,True,0,True,3.3,72,15602300,75778983,False
+722,Usaha Sukses 722,Salon Kecantikan,Bandung,55,12,9,False,0,False,0.0,227,91549919,196628952,True
+723,Usaha Berkah 723,Salon Kecantikan,Jakarta,27,10,49,True,178,False,0.0,348,65974645,158755097,True
+724,Usaha Maju 724,Apotek,Palembang,44,12,15,False,4453,True,0.0,500,21795114,66871875,True
+725,Usaha Berkah 725,Bengkel Motor,Depok,36,14,48,True,0,False,0.0,334,91153129,118743169,True
+726,Usaha Sejahtera 726,Warung Makan,Tangerang,52,4,18,True,1274,False,0.0,14,37149161,85754346,True
+727,Usaha Berkah 727,Toko Kelontong,Medan,63,1,49,False,9038,True,3.5,43,81520583,161611490,False
+728,Usaha Sukses 728,Warung Makan,Jakarta,45,2,20,True,0,False,0.0,256,31156848,94415552,False
+729,Usaha Maju 729,Salon Kecantikan,Surabaya,46,7,48,True,388,False,0.0,300,10020855,87878329,True
+730,Usaha Sukses 730,Toko Kelontong,Surabaya,39,15,14,True,8218,False,0.0,402,22609040,101005179,True
+731,Usaha Sukses 731,Warung Makan,Depok,40,4,40,True,9288,False,4.6,73,46546065,156870714,True
+732,Usaha Berkah 732,Toko Elektronik,Surabaya,54,6,11,False,1116,False,0.0,180,16976146,29094866,True
+733,Usaha Sukses 733,Toko Pakaian,Semarang,41,13,29,True,9318,False,3.7,146,58813150,119799021,True
+734,Usaha Sejahtera 734,Toko Elektronik,Tangerang,57,14,40,False,0,True,0.0,259,65410362,80552200,True
+735,Usaha Berkah 735,Apotek,Jakarta,40,12,36,True,1725,False,0.0,81,81522053,117181020,True
+736,Usaha Sejahtera 736,Kafe,Semarang,30,6,30,False,0,True,3.4,55,58277039,126263261,False
+737,Usaha Maju 737,Toko Kelontong,Tangerang,46,10,32,True,0,True,0.0,232,10138168,156319126,False
+738,Usaha Sukses 738,Salon Kecantikan,Medan,45,10,3,False,5922,False,0.0,109,12258161,66772188,True
+739,Usaha Sukses 739,Toko Pakaian,Bekasi,65,3,6,True,4487,False,3.6,364,65588691,122668229,True
+740,Usaha Maju 740,Salon Kecantikan,Jakarta,30,15,28,False,0,True,3.7,214,69642647,137640903,True
+741,Usaha Sejahtera 741,Kafe,Tangerang,61,7,1,True,9477,True,0.0,340,47481963,13808234,True
+742,Usaha Sukses 742,Salon Kecantikan,Semarang,45,2,44,False,0,True,0.0,482,21873477,180266744,False
+743,Usaha Berkah 743,Warung Makan,Medan,37,7,45,True,0,True,0.0,107,30656926,192436316,True
+744,Usaha Berkah 744,Jasa Laundry,Tangerang,26,5,20,True,0,False,0.0,210,52208264,104545979,True
+745,Usaha Sukses 745,Jasa Fotocopy,Tangerang,32,15,12,False,0,False,4.1,83,77848400,127004616,False
+746,Usaha Sukses 746,Toko Pakaian,Makassar,31,2,7,True,6738,True,0.0,383,88728466,156225850,False
+747,Usaha Sukses 747,Jasa Fotocopy,Makassar,27,11,19,False,3651,False,0.0,58,31247650,136050375,True
+748,Usaha Maju 748,Toko Elektronik,Depok,50,1,24,True,0,False,0.0,157,60662309,190737811,False
+749,Usaha Sukses 749,Warung Makan,Jakarta,26,3,24,False,0,True,0.0,123,79590103,115055543,False
+750,Usaha Sukses 750,Warung Makan,Makassar,52,3,41,False,6604,False,3.9,50,21955763,145360470,False
+751,Usaha Sukses 751,Toko Pakaian,Palembang,35,6,14,True,420,False,4.3,303,25541837,17467426,True
+752,Usaha Berkah 752,Apotek,Depok,26,12,47,True,0,False,3.5,459,34763482,89704529,True
+753,Usaha Sejahtera 753,Kafe,Bekasi,28,5,6,True,9492,True,3.9,305,21466411,38743171,True
+754,Usaha Maju 754,Salon Kecantikan,Surabaya,29,8,24,True,0,True,0.0,407,7947014,121063863,False
+755,Usaha Berkah 755,Bengkel Motor,Depok,49,15,21,False,2945,False,4.8,337,81140891,179440057,True
+756,Usaha Berkah 756,Toko Kelontong,Tangerang,47,8,40,True,8548,False,3.4,15,76934552,16184262,True
+757,Usaha Sejahtera 757,Bengkel Motor,Tangerang,32,15,14,True,0,True,3.2,354,21989313,81830786,True
+758,Usaha Sejahtera 758,Toko Kelontong,Tangerang,60,11,19,False,0,False,0.0,472,30911301,77133869,True
+759,Usaha Maju 759,Kafe,Surabaya,62,13,50,False,3372,False,0.0,452,64882277,123746121,True
+760,Usaha Maju 760,Jasa Laundry,Makassar,31,10,25,False,9292,False,0.0,459,89919350,27251340,True
+761,Usaha Berkah 761,Jasa Fotocopy,Bekasi,62,7,19,False,0,True,3.4,165,62631320,59906148,True
+762,Usaha Berkah 762,Bengkel Motor,Tangerang,48,3,50,False,157,False,4.4,109,67461793,162328867,False
+763,Usaha Sejahtera 763,Jasa Fotocopy,Surabaya,49,5,39,True,1686,False,4.1,330,61606345,193108393,True
+764,Usaha Maju 764,Jasa Laundry,Medan,37,1,32,False,4496,False,3.2,87,85722659,97744774,False
+765,Usaha Sejahtera 765,Apotek,Jakarta,43,1,42,True,0,False,4.7,206,9967155,153201458,False
+766,Usaha Berkah 766,Jasa Laundry,Jakarta,29,8,7,False,0,False,0.0,385,51415774,117466616,True
+767,Usaha Maju 767,Toko Elektronik,Makassar,28,7,20,False,0,True,0.0,480,87943469,37580029,True
+768,Usaha Berkah 768,Warung Makan,Bandung,31,6,45,False,2788,True,4.4,415,54510172,154299725,True
+769,Usaha Berkah 769,Toko Pakaian,Jakarta,32,1,20,True,0,False,0.0,138,98773206,55724927,False
+770,Usaha Sukses 770,Toko Kelontong,Bandung,45,14,10,False,0,True,4.2,338,70780623,85307313,True
+771,Usaha Sukses 771,Bengkel Motor,Surabaya,41,13,19,True,0,True,4.4,38,71384860,26177781,True
+772,Usaha Sejahtera 772,Toko Elektronik,Depok,37,8,7,False,9675,False,0.0,362,65937796,185902893,True
+773,Usaha Berkah 773,Salon Kecantikan,Medan,48,7,29,True,0,True,3.6,84,97109063,92449085,True
+774,Usaha Berkah 774,Salon Kecantikan,Semarang,31,12,8,True,7550,True,0.0,14,68919907,187673536,True
+775,Usaha Maju 775,Toko Pakaian,Surabaya,60,2,23,False,2467,False,0.0,260,49793758,24269243,False
+776,Usaha Maju 776,Toko Kelontong,Jakarta,49,12,28,True,0,True,0.0,90,84731929,84068240,True
+777,Usaha Sukses 777,Jasa Fotocopy,Depok,31,11,4,True,3597,True,4.8,294,40725839,74093564,True
+778,Usaha Berkah 778,Toko Pakaian,Medan,64,12,46,False,0,False,3.4,421,97836226,82012360,True
+779,Usaha Sejahtera 779,Bengkel Motor,Tangerang,65,5,46,False,1544,True,0.0,378,45979918,194666393,True
+780,Usaha Maju 780,Toko Kelontong,Bandung,36,6,30,True,7775,False,0.0,10,28825666,80821913,True
+781,Usaha Sejahtera 781,Warung Makan,Makassar,47,8,38,True,0,True,0.0,56,11063489,14668312,True
+782,Usaha Maju 782,Bengkel Motor,Palembang,57,3,49,True,1638,False,0.0,231,70855518,104162068,True
+783,Usaha Maju 783,Toko Elektronik,Bekasi,48,8,1,False,0,False,0.0,57,41230390,194088783,True
+784,Usaha Berkah 784,Salon Kecantikan,Depok,39,11,10,False,0,True,4.2,356,62810328,106481053,True
+785,Usaha Berkah 785,Bengkel Motor,Depok,65,2,18,False,4346,False,0.0,200,84074084,122016580,False
+786,Usaha Maju 786,Toko Pakaian,Medan,27,10,34,False,7101,False,0.0,147,19789528,12237377,True
+787,Usaha Sejahtera 787,Toko Elektronik,Bandung,58,5,40,True,0,False,0.0,33,44557552,14185552,False
+788,Usaha Sejahtera 788,Toko Pakaian,Makassar,32,1,32,False,7050,False,3.1,70,52005495,86038512,False
+789,Usaha Sejahtera 789,Toko Kelontong,Bekasi,34,12,13,False,4764,True,3.9,181,38383774,192133530,True
+790,Usaha Sukses 790,Kafe,Surabaya,41,15,20,False,9239,False,0.0,411,82600317,47359869,True
+791,Usaha Sejahtera 791,Toko Pakaian,Bandung,51,9,13,False,0,True,0.0,290,89331525,133790186,True
+792,Usaha Sukses 792,Kafe,Surabaya,33,9,29,False,0,False,0.0,218,67619624,122878629,True
+793,Usaha Sukses 793,Warung Makan,Palembang,26,13,27,True,4954,True,0.0,65,88334410,155832808,True
+794,Usaha Maju 794,Warung Makan,Depok,33,7,43,True,0,False,3.2,138,92225409,38735724,True
+795,Usaha Berkah 795,Toko Pakaian,Makassar,55,12,22,True,9578,True,4.0,287,71478665,46615335,True
+796,Usaha Sejahtera 796,Toko Pakaian,Bekasi,25,13,32,True,1100,True,4.2,61,74769403,36001634,True
+797,Usaha Berkah 797,Toko Elektronik,Jakarta,57,8,26,True,4913,False,0.0,94,36531482,156758830,True
+798,Usaha Sukses 798,Apotek,Surabaya,52,3,41,True,2321,True,4.0,358,78374285,63781322,False
+799,Usaha Maju 799,Toko Pakaian,Surabaya,62,8,24,False,0,False,3.9,416,62020114,49773151,True
+800,Usaha Sukses 800,Toko Kelontong,Makassar,49,1,38,False,7282,True,0.0,492,23697002,135602857,False
+801,Usaha Sukses 801,Toko Pakaian,Jakarta,35,6,33,True,0,False,3.3,77,52226789,186075776,True
+802,Usaha Maju 802,Toko Elektronik,Bandung,42,13,49,False,0,True,0.0,192,68317523,172629418,True
+803,Usaha Maju 803,Salon Kecantikan,Tangerang,62,10,23,False,736,True,3.5,340,19256665,144065766,True
+804,Usaha Sukses 804,Jasa Laundry,Medan,40,2,12,False,0,True,4.2,58,10022195,29564031,False
+805,Usaha Maju 805,Apotek,Jakarta,36,6,7,False,0,True,3.4,251,63722249,192227146,True
+806,Usaha Sejahtera 806,Salon Kecantikan,Depok,58,13,13,True,1576,True,4.6,457,5702802,106518921,True
+807,Usaha Berkah 807,Jasa Laundry,Bandung,58,8,13,True,0,False,0.0,316,79987083,47010144,True
+808,Usaha Sukses 808,Kafe,Depok,29,10,6,True,0,True,4.0,26,85730565,155099571,False
+809,Usaha Sejahtera 809,Toko Pakaian,Bekasi,49,12,23,True,4719,True,4.7,477,87040231,144230346,True
+810,Usaha Berkah 810,Jasa Fotocopy,Surabaya,62,8,17,True,5538,False,0.0,102,49901365,25942910,True
+811,Usaha Maju 811,Warung Makan,Medan,56,2,37,True,0,True,0.0,306,87199318,31634148,False
+812,Usaha Sukses 812,Salon Kecantikan,Bekasi,27,2,3,False,5738,False,0.0,155,35568777,15756130,False
+813,Usaha Berkah 813,Bengkel Motor,Palembang,63,14,25,True,0,True,0.0,392,55630659,196680897,True
+814,Usaha Sukses 814,Jasa Fotocopy,Bandung,32,8,8,False,0,True,0.0,223,12774227,73933329,True
+815,Usaha Berkah 815,Bengkel Motor,Depok,59,10,3,True,931,True,3.3,92,42929390,21735844,False
+816,Usaha Sejahtera 816,Toko Pakaian,Bandung,63,7,31,True,1251,False,4.0,376,52910133,69132919,True
+817,Usaha Maju 817,Jasa Laundry,Palembang,43,14,42,True,0,False,3.1,461,60141186,199381662,True
+818,Usaha Sukses 818,Toko Pakaian,Surabaya,38,15,9,True,0,True,3.7,417,24053714,19628154,True
+819,Usaha Sukses 819,Toko Elektronik,Surabaya,26,8,3,False,0,False,0.0,423,16340498,26030977,True
+820,Usaha Sukses 820,Toko Elektronik,Jakarta,49,7,29,True,3370,False,4.3,272,12014171,187275435,True
+821,Usaha Maju 821,Warung Makan,Makassar,46,15,17,True,5586,False,0.0,400,12666327,39315891,True
+822,Usaha Maju 822,Jasa Fotocopy,Semarang,52,10,47,False,6247,False,3.3,7,42674933,193233701,True
+823,Usaha Berkah 823,Bengkel Motor,Palembang,43,6,37,False,4493,False,0.0,337,38623322,185296703,True
+824,Usaha Berkah 824,Toko Kelontong,Bekasi,61,11,21,False,7271,False,3.9,238,9966560,106294147,False
+825,Usaha Sejahtera 825,Kafe,Jakarta,62,2,18,False,7216,True,0.0,392,42063466,79669953,False
+826,Usaha Sejahtera 826,Bengkel Motor,Bandung,34,14,40,True,1875,True,4.4,440,64097257,165663228,True
+827,Usaha Sejahtera 827,Warung Makan,Bekasi,41,1,44,False,9839,True,0.0,55,15399074,146080116,False
+828,Usaha Berkah 828,Bengkel Motor,Medan,45,10,24,False,6987,False,3.0,310,53356895,99922061,True
+829,Usaha Maju 829,Toko Elektronik,Bekasi,64,1,11,False,4765,True,3.2,108,47024344,147115794,False
+830,Usaha Maju 830,Bengkel Motor,Depok,62,1,43,True,0,True,4.9,114,80887023,145156147,True
+831,Usaha Sukses 831,Jasa Fotocopy,Surabaya,58,13,4,False,0,False,0.0,99,82207907,88669118,True
+832,Usaha Maju 832,Bengkel Motor,Tangerang,39,8,21,True,7291,False,0.0,40,52242574,160446564,True
+833,Usaha Maju 833,Toko Elektronik,Makassar,39,8,27,True,8808,True,0.0,345,83484532,188751882,True
+834,Usaha Maju 834,Toko Pakaian,Tangerang,45,2,6,False,0,True,0.0,323,31589097,58295754,False
+835,Usaha Berkah 835,Salon Kecantikan,Surabaya,51,5,49,False,2070,True,0.0,12,97616482,54811442,True
+836,Usaha Sejahtera 836,Jasa Fotocopy,Palembang,49,15,28,False,6591,True,0.0,60,50205643,100366241,True
+837,Usaha Berkah 837,Warung Makan,Surabaya,47,8,27,False,0,False,0.0,358,23066449,59244693,True
+838,Usaha Berkah 838,Salon Kecantikan,Jakarta,62,10,24,False,0,False,0.0,90,73272154,167861759,False
+839,Usaha Berkah 839,Bengkel Motor,Bekasi,56,6,4,False,0,False,0.0,163,28946564,48439034,True
+840,Usaha Sejahtera 840,Kafe,Palembang,42,10,40,False,5690,False,3.2,140,70315141,127820817,True
+841,Usaha Sejahtera 841,Toko Pakaian,Bekasi,63,13,7,True,0,True,3.4,429,73276312,55325977,True
+842,Usaha Berkah 842,Jasa Fotocopy,Palembang,37,1,32,True,0,True,0.0,482,81660490,124488408,False
+843,Usaha Sejahtera 843,Toko Elektronik,Bekasi,32,12,46,True,0,False,0.0,134,16658665,46726810,True
+844,Usaha Berkah 844,Jasa Laundry,Surabaya,39,12,5,False,8307,False,0.0,232,89640912,147665543,True
+845,Usaha Berkah 845,Jasa Laundry,Jakarta,52,2,46,False,9145,True,3.5,300,55493924,69112051,False
+846,Usaha Maju 846,Toko Elektronik,Bandung,56,14,12,False,0,True,4.3,45,74297448,67495943,True
+847,Usaha Berkah 847,Toko Elektronik,Palembang,64,4,46,True,6851,False,0.0,323,83369591,73006039,True
+848,Usaha Sukses 848,Jasa Fotocopy,Bandung,44,14,15,False,0,False,0.0,306,52932891,155871400,True
+849,Usaha Berkah 849,Bengkel Motor,Surabaya,43,7,29,False,6960,True,3.9,163,93665957,40477167,True
+850,Usaha Sukses 850,Salon Kecantikan,Semarang,56,10,27,True,4766,False,4.8,400,59895832,26321750,True
+851,Usaha Maju 851,Toko Pakaian,Tangerang,51,7,29,False,0,False,3.5,372,34386729,101225523,True
+852,Usaha Berkah 852,Toko Pakaian,Semarang,51,4,37,True,1807,False,4.2,10,7834368,111787538,False
+853,Usaha Maju 853,Jasa Laundry,Palembang,29,11,4,True,0,True,4.7,202,35780751,87896609,True
+854,Usaha Maju 854,Jasa Laundry,Depok,38,9,47,True,591,True,4.0,405,70082169,21350838,True
+855,Usaha Maju 855,Warung Makan,Medan,65,13,45,True,4463,True,0.0,335,58787880,45216903,True
+856,Usaha Maju 856,Toko Kelontong,Surabaya,29,9,47,False,241,True,4.5,405,57495761,62152734,True
+857,Usaha Maju 857,Jasa Laundry,Depok,57,12,2,False,0,False,3.2,496,93053635,164672827,True
+858,Usaha Maju 858,Kafe,Surabaya,39,7,36,False,0,False,3.8,254,57834161,110056005,True
+859,Usaha Berkah 859,Toko Elektronik,Medan,61,1,26,True,0,False,0.0,288,19622813,182555295,False
+860,Usaha Sejahtera 860,Toko Kelontong,Surabaya,60,3,14,False,1374,True,0.0,315,68554061,150500638,False
+861,Usaha Sejahtera 861,Warung Makan,Semarang,41,7,20,False,598,False,0.0,446,5747830,81979597,False
+862,Usaha Sukses 862,Jasa Fotocopy,Semarang,45,11,16,False,0,False,4.8,217,98852493,30804941,True
+863,Usaha Berkah 863,Salon Kecantikan,Palembang,32,3,13,False,639,False,0.0,87,89042431,150818313,False
+864,Usaha Sukses 864,Kafe,Jakarta,43,2,28,False,0,False,0.0,288,92271147,54545703,False
+865,Usaha Sejahtera 865,Apotek,Tangerang,58,10,17,False,0,True,0.0,474,23164926,54087359,True
+866,Usaha Sukses 866,Warung Makan,Tangerang,51,3,10,False,91,False,3.4,48,77173099,133102777,False
+867,Usaha Berkah 867,Apotek,Semarang,63,3,5,False,5651,True,3.5,420,62198985,166892036,False
+868,Usaha Maju 868,Apotek,Depok,41,9,35,True,9709,True,4.5,143,28934411,80581779,True
+869,Usaha Sejahtera 869,Jasa Fotocopy,Makassar,49,6,37,False,0,True,3.0,118,34050549,34518428,True
+870,Usaha Sejahtera 870,Salon Kecantikan,Bandung,55,14,1,False,855,True,0.0,217,94233613,136618072,True
+871,Usaha Berkah 871,Bengkel Motor,Palembang,50,7,50,False,0,False,0.0,429,75059735,95086502,True
+872,Usaha Sejahtera 872,Salon Kecantikan,Bekasi,34,14,28,False,0,False,4.1,222,92522323,103463989,True
+873,Usaha Maju 873,Toko Elektronik,Tangerang,52,4,40,True,0,False,4.9,5,31284674,128670098,False
+874,Usaha Sejahtera 874,Warung Makan,Makassar,44,6,7,False,0,True,0.0,17,91868145,83806709,True
+875,Usaha Sukses 875,Warung Makan,Bekasi,42,11,4,True,0,False,0.0,88,68545170,183824974,True
+876,Usaha Berkah 876,Warung Makan,Tangerang,26,10,46,True,2156,True,0.0,427,21029189,25045268,True
+877,Usaha Berkah 877,Jasa Laundry,Surabaya,59,5,13,True,0,False,4.8,300,54158124,148604084,True
+878,Usaha Sukses 878,Kafe,Jakarta,29,4,49,True,0,True,3.9,141,86675383,63333669,True
+879,Usaha Sukses 879,Salon Kecantikan,Jakarta,44,5,36,False,5594,False,4.1,237,16832897,41208758,True
+880,Usaha Sejahtera 880,Toko Kelontong,Bandung,45,10,41,True,171,True,0.0,235,15908536,76231649,True
+881,Usaha Sejahtera 881,Salon Kecantikan,Bekasi,28,7,46,False,4570,True,0.0,211,35327888,60531711,True
+882,Usaha Sejahtera 882,Salon Kecantikan,Bekasi,41,12,29,False,8026,False,0.0,178,91144415,150403215,True
+883,Usaha Sejahtera 883,Warung Makan,Makassar,49,3,35,True,0,False,0.0,106,50926778,197811892,False
+884,Usaha Maju 884,Toko Kelontong,Palembang,38,5,14,False,0,True,4.0,323,30021608,137563165,True
+885,Usaha Maju 885,Jasa Laundry,Makassar,49,11,38,True,0,True,0.0,445,6060092,52614262,True
+886,Usaha Maju 886,Jasa Laundry,Surabaya,36,15,23,False,7648,True,3.9,315,66263101,169336509,True
+887,Usaha Sukses 887,Kafe,Semarang,40,5,47,False,0,False,0.0,153,10386018,72895245,True
+888,Usaha Berkah 888,Kafe,Depok,42,10,26,True,8391,True,0.0,453,85108005,197269031,True
+889,Usaha Sejahtera 889,Apotek,Bandung,33,11,22,True,5067,True,0.0,234,58149397,54383677,True
+890,Usaha Sejahtera 890,Bengkel Motor,Bandung,44,5,6,True,3331,False,4.4,78,96900700,159075154,True
+891,Usaha Maju 891,Warung Makan,Semarang,35,6,7,False,0,True,0.0,342,55505000,134415534,True
+892,Usaha Berkah 892,Kafe,Bandung,45,13,9,False,0,False,0.0,305,57861700,153375451,True
+893,Usaha Sukses 893,Apotek,Jakarta,39,15,39,True,6047,False,0.0,256,5213612,173897702,True
+894,Usaha Sukses 894,Toko Kelontong,Medan,33,8,13,True,4946,False,3.7,334,29142500,124276012,True
+895,Usaha Maju 895,Kafe,Semarang,27,5,27,True,6524,True,0.0,412,16091816,102955673,True
+896,Usaha Berkah 896,Kafe,Jakarta,35,6,9,False,0,True,0.0,334,94952040,117831433,True
+897,Usaha Berkah 897,Toko Pakaian,Depok,41,12,41,True,0,False,0.0,364,49971462,153619455,True
+898,Usaha Berkah 898,Salon Kecantikan,Depok,59,13,25,True,113,False,0.0,101,74108209,174958986,True
+899,Usaha Sukses 899,Kafe,Jakarta,54,5,3,True,0,False,0.0,25,85440472,194250779,False
+900,Usaha Sukses 900,Jasa Laundry,Bekasi,26,9,18,True,0,False,0.0,8,64964474,97142887,False
+901,Usaha Berkah 901,Apotek,Surabaya,47,12,3,False,2871,True,3.3,74,89949087,142459554,False
+902,Usaha Maju 902,Jasa Laundry,Semarang,64,4,47,False,1253,False,0.0,19,24696511,173572080,True
+903,Usaha Berkah 903,Kafe,Palembang,30,6,41,False,0,False,3.4,382,39474897,185260282,True
+904,Usaha Berkah 904,Kafe,Surabaya,37,10,17,False,800,False,0.0,110,63645850,83762507,True
+905,Usaha Sejahtera 905,Toko Pakaian,Palembang,27,10,26,True,0,False,3.8,9,60609738,186419214,False
+906,Usaha Maju 906,Toko Elektronik,Makassar,65,6,7,True,296,False,3.1,147,86781029,133653222,True
+907,Usaha Maju 907,Jasa Fotocopy,Depok,55,15,36,True,0,False,0.0,177,64644085,50742765,True
+908,Usaha Sukses 908,Bengkel Motor,Palembang,35,11,25,False,0,True,4.3,287,51345273,32304839,True
+909,Usaha Maju 909,Toko Pakaian,Bekasi,45,8,44,False,2554,True,0.0,289,62919082,121506207,True
+910,Usaha Berkah 910,Toko Pakaian,Palembang,56,4,25,True,0,True,3.8,108,19848878,163208199,True
+911,Usaha Sejahtera 911,Kafe,Palembang,51,6,49,True,0,False,0.0,394,53744480,179188335,True
+912,Usaha Maju 912,Jasa Fotocopy,Palembang,59,7,15,False,0,False,0.0,422,65324953,52135722,True
+913,Usaha Sejahtera 913,Kafe,Bekasi,25,9,22,False,1610,False,0.0,498,61139192,120137404,True
+914,Usaha Berkah 914,Apotek,Medan,33,10,40,True,0,True,0.0,312,38546480,54683462,True
+915,Usaha Sukses 915,Toko Kelontong,Tangerang,26,12,39,False,2644,False,0.0,370,37120359,57032843,True
+916,Usaha Sejahtera 916,Jasa Laundry,Bandung,43,2,2,True,0,False,4.4,227,37465073,57480297,False
+917,Usaha Berkah 917,Apotek,Tangerang,35,4,30,True,529,False,0.0,441,56716183,28888624,True
+918,Usaha Maju 918,Jasa Fotocopy,Surabaya,63,11,35,True,0,False,3.6,203,10356154,107542268,False
+919,Usaha Sukses 919,Kafe,Surabaya,31,3,17,True,6004,False,0.0,72,37624124,139544536,False
+920,Usaha Berkah 920,Jasa Laundry,Surabaya,54,15,46,False,4259,False,0.0,352,64682874,98761192,True
+921,Usaha Maju 921,Apotek,Bekasi,63,1,49,True,8548,False,3.4,189,80636982,107368045,True
+922,Usaha Maju 922,Salon Kecantikan,Makassar,65,5,31,False,0,True,3.3,149,56570031,79069988,True
+923,Usaha Berkah 923,Bengkel Motor,Makassar,44,3,38,True,0,False,0.0,244,88008294,55744118,False
+924,Usaha Sejahtera 924,Apotek,Palembang,45,9,24,False,0,True,0.0,89,69961168,111971213,False
+925,Usaha Berkah 925,Jasa Laundry,Medan,44,4,15,True,0,True,3.7,235,81424646,181432700,True
+926,Usaha Sejahtera 926,Bengkel Motor,Tangerang,27,7,41,True,0,True,0.0,283,76773449,154345552,True
+927,Usaha Berkah 927,Toko Elektronik,Makassar,58,4,16,False,4015,True,0.0,90,10399953,173514158,False
+928,Usaha Maju 928,Toko Kelontong,Medan,29,15,9,False,3403,True,4.2,297,69059746,134626876,True
+929,Usaha Berkah 929,Jasa Laundry,Surabaya,37,8,8,False,7799,True,4.1,110,85301630,140789986,True
+930,Usaha Berkah 930,Apotek,Depok,32,12,29,True,0,True,0.0,386,59649280,171424775,True
+931,Usaha Sejahtera 931,Jasa Laundry,Palembang,55,9,19,False,0,True,0.0,140,95978487,160663243,True
+932,Usaha Sukses 932,Toko Kelontong,Bandung,56,1,21,False,0,True,3.1,221,95325335,91776440,False
+933,Usaha Sukses 933,Jasa Laundry,Palembang,36,4,50,True,3493,False,0.0,163,76189018,136668152,True
+934,Usaha Maju 934,Apotek,Medan,61,11,10,False,3144,False,4.7,312,93931424,52179976,True
+935,Usaha Sukses 935,Apotek,Depok,42,4,17,False,0,False,3.6,372,52504159,94650221,True
+936,Usaha Sukses 936,Apotek,Depok,51,1,49,False,6697,False,4.9,392,41803483,15229021,False
+937,Usaha Sejahtera 937,Bengkel Motor,Bekasi,43,14,24,True,0,False,0.0,166,79902641,160316408,True
+938,Usaha Sejahtera 938,Apotek,Palembang,53,14,18,True,3983,True,0.0,370,69381921,169166191,True
+939,Usaha Berkah 939,Kafe,Semarang,40,5,39,False,1661,True,0.0,141,77195140,109173165,True
+940,Usaha Maju 940,Toko Kelontong,Semarang,33,15,48,True,0,False,4.7,301,45111723,164105607,True
+941,Usaha Berkah 941,Toko Elektronik,Medan,45,10,35,False,0,True,4.5,34,98851922,94278326,True
+942,Usaha Maju 942,Toko Elektronik,Medan,36,6,30,True,0,False,0.0,101,95955166,198994751,True
+943,Usaha Berkah 943,Salon Kecantikan,Surabaya,51,7,26,False,8657,True,0.0,8,80928927,127361836,True
+944,Usaha Maju 944,Jasa Fotocopy,Semarang,43,10,22,True,9261,True,4.1,408,73920851,33549911,True
+945,Usaha Sukses 945,Apotek,Medan,29,13,44,False,0,False,0.0,455,25428651,184602151,True
+946,Usaha Sejahtera 946,Apotek,Tangerang,54,9,50,False,6577,False,4.2,199,7532910,12291876,True
+947,Usaha Sukses 947,Salon Kecantikan,Bekasi,39,10,44,False,0,True,0.0,457,82424312,50964534,True
+948,Usaha Sejahtera 948,Bengkel Motor,Bekasi,36,2,2,True,8848,False,3.7,161,35884016,186675370,False
+949,Usaha Maju 949,Salon Kecantikan,Depok,42,4,14,False,2249,False,4.7,192,8412336,129172580,False
+950,Usaha Sejahtera 950,Kafe,Jakarta,53,8,26,True,6234,True,4.9,259,82618586,148645889,True
+951,Usaha Sejahtera 951,Toko Kelontong,Semarang,63,6,48,False,0,True,5.0,409,73036333,106598775,True
+952,Usaha Berkah 952,Toko Elektronik,Jakarta,25,7,27,False,5811,False,0.0,428,13765169,126540952,True
+953,Usaha Maju 953,Bengkel Motor,Surabaya,49,15,31,True,0,False,3.3,127,28804639,161553088,True
+954,Usaha Sejahtera 954,Salon Kecantikan,Semarang,27,1,39,True,0,False,0.0,421,26136969,122538652,False
+955,Usaha Sejahtera 955,Salon Kecantikan,Tangerang,32,13,11,True,0,True,0.0,206,88928021,110175849,True
+956,Usaha Maju 956,Apotek,Tangerang,26,13,2,False,7708,True,4.8,23,77407098,111210037,True
+957,Usaha Sejahtera 957,Salon Kecantikan,Surabaya,25,6,15,True,0,True,4.9,237,60710670,154076610,True
+958,Usaha Berkah 958,Toko Pakaian,Semarang,55,15,17,True,0,False,4.0,383,81670472,62690417,True
+959,Usaha Sejahtera 959,Salon Kecantikan,Medan,30,12,7,False,0,True,3.5,94,93499057,90828102,False
+960,Usaha Sukses 960,Apotek,Palembang,58,10,18,True,0,False,0.0,338,24491232,165523063,True
+961,Usaha Berkah 961,Kafe,Jakarta,37,3,1,True,3896,True,0.0,165,6572026,163568363,False
+962,Usaha Maju 962,Bengkel Motor,Makassar,50,8,14,False,0,False,4.5,335,74053800,100556792,True
+963,Usaha Sejahtera 963,Toko Pakaian,Tangerang,56,13,36,False,5609,False,4.6,218,91207066,16822014,True
+964,Usaha Sejahtera 964,Toko Kelontong,Medan,54,14,8,True,0,True,0.0,157,65742222,127081910,True
+965,Usaha Berkah 965,Jasa Fotocopy,Bandung,50,14,33,True,3634,True,4.5,181,75541440,171312608,True
+966,Usaha Berkah 966,Jasa Fotocopy,Tangerang,59,4,45,True,0,True,4.4,325,90135998,175942575,True
+967,Usaha Sejahtera 967,Jasa Fotocopy,Makassar,52,14,13,False,6567,False,0.0,461,75027906,123082230,True
+968,Usaha Sukses 968,Jasa Laundry,Bandung,44,1,5,False,0,True,3.1,210,23831186,48598754,False
+969,Usaha Sejahtera 969,Bengkel Motor,Depok,35,11,27,False,4072,False,3.5,485,42073335,47699164,True
+970,Usaha Berkah 970,Apotek,Bandung,38,8,10,False,0,True,4.0,268,18772377,178723960,True
+971,Usaha Sejahtera 971,Toko Elektronik,Bekasi,32,9,48,False,1153,False,0.0,486,10499119,112408585,False
+972,Usaha Maju 972,Toko Kelontong,Semarang,52,10,11,False,0,True,3.2,374,85975711,170805448,True
+973,Usaha Sejahtera 973,Toko Elektronik,Depok,51,1,41,True,0,False,0.0,327,73158923,98269542,False
+974,Usaha Maju 974,Jasa Laundry,Surabaya,25,2,46,False,9597,False,4.2,340,40668920,37908012,False
+975,Usaha Sukses 975,Jasa Fotocopy,Makassar,61,7,39,False,9857,True,4.2,60,37026271,106824890,True
+976,Usaha Sukses 976,Kafe,Jakarta,47,11,29,False,6532,False,3.4,92,8240609,179254265,False
+977,Usaha Berkah 977,Toko Pakaian,Depok,26,12,30,False,0,False,0.0,498,38380094,84257965,True
+978,Usaha Berkah 978,Jasa Laundry,Semarang,65,5,50,True,9150,False,0.0,385,51780131,56186470,True
+979,Usaha Berkah 979,Jasa Laundry,Tangerang,64,9,48,True,0,False,4.8,46,90825759,119002315,False
+980,Usaha Sukses 980,Salon Kecantikan,Depok,37,5,46,False,0,False,0.0,458,53514771,52739587,True
+981,Usaha Maju 981,Warung Makan,Surabaya,37,10,20,False,6520,True,3.2,364,85258091,188023758,True
+982,Usaha Maju 982,Salon Kecantikan,Tangerang,59,6,26,True,0,True,0.0,314,81518436,32068509,True
+983,Usaha Sejahtera 983,Toko Elektronik,Jakarta,40,9,10,False,8101,True,3.5,115,64103568,183918003,True
+984,Usaha Sejahtera 984,Warung Makan,Bekasi,40,1,40,False,0,False,3.8,434,74601473,165932979,False
+985,Usaha Sukses 985,Toko Pakaian,Tangerang,41,7,24,False,5245,False,4.9,68,48172816,198558410,False
+986,Usaha Sejahtera 986,Toko Kelontong,Palembang,55,9,21,True,5707,True,0.0,137,82075758,24281156,True
+987,Usaha Sukses 987,Toko Elektronik,Makassar,52,2,11,True,0,True,0.0,244,99799191,49696269,False
+988,Usaha Maju 988,Toko Kelontong,Bekasi,61,5,47,True,0,False,5.0,110,93825403,131362816,True
+989,Usaha Maju 989,Jasa Laundry,Medan,61,13,33,False,8841,False,4.9,27,53096857,167691784,False
+990,Usaha Berkah 990,Apotek,Surabaya,58,7,47,True,4076,True,3.1,475,71434426,42078063,True
+991,Usaha Berkah 991,Kafe,Makassar,49,13,27,False,0,True,0.0,93,17866554,93535875,False
+992,Usaha Sukses 992,Toko Pakaian,Semarang,30,3,17,False,3713,False,3.7,384,17620209,150624550,False
+993,Usaha Berkah 993,Jasa Fotocopy,Jakarta,48,2,11,True,76,False,0.0,156,8711597,162492452,False
+994,Usaha Berkah 994,Salon Kecantikan,Medan,65,10,32,True,5656,True,4.2,293,28746912,128298857,True
+995,Usaha Sejahtera 995,Jasa Fotocopy,Bandung,53,1,40,True,5106,False,3.7,92,84202730,149180791,False
+996,Usaha Berkah 996,Toko Elektronik,Medan,63,3,40,False,0,False,0.0,483,20620477,189504152,False
+997,Usaha Maju 997,Bengkel Motor,Tangerang,34,4,32,True,0,True,0.0,30,69481336,187076138,True
+998,Usaha Berkah 998,Jasa Fotocopy,Surabaya,45,15,34,False,4629,False,3.9,101,44320311,178131669,True
+999,Usaha Sukses 999,Kafe,Surabaya,56,1,32,True,0,False,0.0,156,71788701,87093035,False
+1000,Usaha Berkah 1000,Jasa Fotocopy,Jakarta,37,2,20,True,0,True,3.1,155,56660590,60530024,False

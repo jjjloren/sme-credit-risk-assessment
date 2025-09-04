@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Loan Prediction Result</title>
+    <style>
+        body { font-family: Optima, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .result-card { border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin: 20px 0; }
+        .approved { background-color: #d4edda; border-color: #c3e6cb; }
+        .rejected { background-color: #f8d7da; border-color: #f5c6cb; }
+        .probability { font-size: 24px; font-weight: bold; margin: 10px 0; }
+        .risk-level { padding: 5px 10px; border-radius: 15px; color: white; display: inline-block; }
+        .low-risk { background-color: #28a745; }
+        .medium-risk { background-color: #ffc107; }
+        .high-risk { background-color: #dc3545; }
+        .back-button { background-color: #6c757d; color: white; padding: 10px 20px; border: none; border-radius: 4px; text-decoration: none; display: inline-block; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>🏦 Loan Prediction Result</h1>
+    
+    <div class="result-card {% if result.approved %}approved{% else %}rejected{% endif %}">
+        <h2>Business: {{ result.business_name }}</h2>
+        
+        <div class="probability">
+            Approval Probability: {{ result.probability }}
+        </div>
+        
+        <p><strong>Decision:</strong> 
+            {% if result.approved %}
+                ✅ <strong>APPROVED</strong> - Loan is recommended
+            {% else %}
+                ❌ <strong>REJECTED</strong> - Loan is not recommended
+            {% endif %}
+        </p>
+        
+        <p><strong>Risk Level:</strong> 
+            <span class="risk-level {% if result.risk_level == 'Low' %}low-risk{% elif result.risk_level == 'Medium' %}medium-risk{% else %}high-risk{% endif %}">
+                {{ result.risk_level }} Risk
+            </span>
+        </p>
+    </div>
+    
+    <a href="/" class="back-button">← Assess Another Business</a>
+</body>
+</html>
